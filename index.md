@@ -24,6 +24,9 @@ layout: page
       flex: 100%;
       margin: 10px 0;
     }
+    .flex-child img { /* Add media query for image responsiveness */
+      max-width: 90%; /* Adjust percentage as needed */
+    }
   }
 </style>
 
