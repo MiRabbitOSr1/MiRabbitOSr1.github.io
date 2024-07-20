@@ -12,10 +12,11 @@ layout: page
     flex: 1;
     min-width: 250px; /* Ensures the text doesn't get too narrow */
     margin: 10px;
+    text-align: center; /* Centers the video within the flex child */
   }
   .flex-child video {
-    max-width: 100%;
-    height: auto;
+    width: 30%; /* Reduces the video size to 30% of its original size */
+    height: auto; 
     display: block;
     margin: 0 auto;
     pointer-events: none; /* Prevents interaction with the video */
@@ -27,6 +28,7 @@ layout: page
     }
     .flex-child video {
       max-width: 90%;
+      width: auto; /* Adjusts width to be more responsive on smaller screens */
     }
   }
 </style>
