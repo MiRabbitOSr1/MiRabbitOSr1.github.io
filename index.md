@@ -13,7 +13,7 @@ layout: page
     min-width: 250px; /* Ensures the text doesn't get too narrow */
     margin: 10px;
   }
-  .flex-child img {
+  .flex-child video {
     max-width: 100%;
     height: auto;
     display: block;
@@ -24,7 +24,7 @@ layout: page
       flex: 100%;
       margin: 10px 0;
     }
-    .flex-child img {
+    .flex-child video {
       max-width: 90%;
     }
   }
@@ -33,14 +33,15 @@ layout: page
 <div class="flex-container">
   <div class="flex-child">
     <a href="https://community.rabbit.tech/t/r1-en-espana">
-      <img src="https://global.discourse-cdn.com/flex002/uploads/rabbit/original/1X/f5575f4802c77cbad7fee3c8a8f83832e8ab2f6d.jpeg" alt="Rabbit R1">
+      <video controls>
+        <source src="assets/videos/rabbit-idle.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+      </video>
     </a>
   </div>
 </div>
 
 <br/>
-
-
 
 <p>Somos un grupo de apasionados por Rabbit R1, siempre buscando aprender más y colaborar en la evolución de la comunidad. Únete a nuestro <a href="https://t.me/mirabbitosr1_es" target="_blank"><img src="https://img.shields.io/badge/Telegram-¡Únete!-ff4d00" alt="Canal de Telegram"></a> para participar en la conversación. Haz clic en el botón <span style="color: #ff4d00;">`Únete`</span> para ser parte de nuestra comunidad y mantenerte al tanto de todo lo relacionado con Rabbit R1. (¡Este paso es opcional, pero te hará una persona genial! 😁)</p>
 
