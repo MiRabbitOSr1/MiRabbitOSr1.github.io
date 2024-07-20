@@ -1,0 +1,1 @@
+Rabbit R1 es un dispositivo innovador que busca transformar la forma en que los usuarios interactúan con la tecnología, utilizando inteligencia artificial para facilitar tareas diarias a través de comandos de voz y un sistema operativo intuitivo.

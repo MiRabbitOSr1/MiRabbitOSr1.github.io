@@ -1,0 +1,1 @@
+Este artículo proporcionará consejos prácticos para que los nuevos usuarios aprovechen al máximo las funcionalidades del Rabbit R1, incluyendo cómo configurar el dispositivo y utilizar comandos de voz de manera efectiva.

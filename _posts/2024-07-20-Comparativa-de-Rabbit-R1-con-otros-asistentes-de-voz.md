@@ -1,0 +1,1 @@
+A diferencia de asistentes como Siri y Alexa, Rabbit R1 ofrece respuestas más rápidas y la capacidad de aprender tareas a través de la observación, lo que lo posiciona como un competidor único en el mercado de asistentes de voz.

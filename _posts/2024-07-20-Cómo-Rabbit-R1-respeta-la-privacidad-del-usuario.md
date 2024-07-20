@@ -1,0 +1,1 @@
+Se explorarán las medidas de seguridad implementadas en Rabbit R1, destacando cómo el dispositivo opera sin almacenar datos personales ni requerir cuentas proxy, lo que mejora la privacidad del usuario.

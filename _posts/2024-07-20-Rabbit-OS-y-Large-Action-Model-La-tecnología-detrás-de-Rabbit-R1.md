@@ -1,0 +1,1 @@
+Rabbit OS es el primer sistema operativo construido sobre el Large Action Model (LAM), que permite al dispositivo inferir y modelar acciones humanas, aprendiendo la intención y comportamiento del usuario para realizar tareas de manera rápida y eficiente.

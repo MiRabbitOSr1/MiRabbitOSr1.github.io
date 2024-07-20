@@ -1,0 +1,36 @@
+<style>
+  .navbar-nav .nav-link:hover {
+    color: #ff4d00 !important;
+  }
+  .navbar-nav .nav-link:hover img {
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(346deg) brightness(119%) contrast(119%);
+  }
+</style>
+
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" rel="author" href="https://MiRabbitOSr1.github.io"><img src="assets/images/rabbit.png" alt="Nótt Gaming" width="48" height="48"></a>
+
+  <div class="container">
+    {%- assign page_paths = site.header_pages -%}
+    <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="./archivo">Archivo</a>
+          <a class="nav-link" href="https://twitter.com/rabbit_hmi" target="_blank">
+            <img src="assets/images/icon/twitter-x-48.png" alt="X" width="24" height="24">
+          </a>
+          <a class="nav-link" href="https://discord.com/invite/rabbitinc" target="_blank">
+            <img src="assets/images/icon/discord-2-48.png" alt="Discord" width="24" height="24">
+          </a>
+          <a class="nav-link" href="https://t.me/mirabbitosr1_es" target="_blank">
+            <img src="assets/images/icon/telegram-48.png" alt="Telegram" width="24" height="24">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,1 @@
+Reflexiones sobre cómo la tecnología de Rabbit R1 podría evolucionar y su impacto en la sociedad, así como las implicaciones de la inteligencia artificial en la vida cotidiana.
