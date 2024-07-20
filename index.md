@@ -7,18 +7,18 @@ layout: page
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center; /* Centers the flex children horizontally */
   }
   .flex-child {
     flex: 1;
     min-width: 250px; /* Ensures the text doesn't get too narrow */
     margin: 10px;
-    text-align: center; /* Centers the video within the flex child */
+    display: flex;
+    justify-content: center; /* Centers the video within the flex child */
   }
   .flex-child video {
     width: 30%; /* Reduces the video size to 30% of its original size */
-    height: auto; 
-    display: block;
-    margin: 0 auto;
+    height: auto;
     pointer-events: none; /* Prevents interaction with the video */
   }
   @media (max-width: 768px) {
