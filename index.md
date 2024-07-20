@@ -17,17 +17,16 @@ layout: page
     justify-content: center; /* Centers the video within the flex child */
   }
   .flex-child video {
-    width: 30%; /* Reduces the video size to 30% of its original size */
+    width: 40%; /* Reduces the video size to 30% of its original size */
     height: auto;
     pointer-events: none; /* Prevents interaction with the video */
   }
   @media (max-width: 768px) {
     .flex-child {
       flex: 100%;
-      margin: 10px 0;
     }
     .flex-child video {
-      max-width: 90%;
+      max-width: 60%;
       width: auto; /* Adjusts width to be more responsive on smaller screens */
     }
   }
