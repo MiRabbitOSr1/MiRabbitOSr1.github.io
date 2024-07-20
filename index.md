@@ -44,4 +44,8 @@ layout: page
 
 <p>Somos un grupo de apasionados por Rabbit R1, siempre buscando aprender más y colaborar en la evolución de la comunidad. Únete a nuestro <a href="https://t.me/mirabbitosr1_es" target="_blank"><img src="https://img.shields.io/badge/Telegram-¡Únete!-ff4d00" alt="Canal de Telegram"></a> para participar en la conversación. Haz clic en el botón <span style="color: #ff4d00;">`Únete`</span> para ser parte de nuestra comunidad y mantenerte al tanto de todo lo relacionado con Rabbit R1. (¡Este paso es opcional, pero te hará una persona genial! 😁)</p>
 
+<p>Además, te invitamos a explorar nuestro <a href="https://mirabbitosr1.github.io/archivo" target="_blank"><img src="https://img.shields.io/badge/Blog-Archivo-blue" alt="Blog Archivo"></a> donde encontrarás artículos interesantes y más información sobre el Rabbit R1. Este recurso es una excelente manera de profundizar tus conocimientos y mantenerte actualizado sobre este apasionante tema. (¡No te lo pierdas!)</p>
+
+<br/>
+
 <br/>
