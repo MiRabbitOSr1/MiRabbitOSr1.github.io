@@ -18,6 +18,6 @@ layout: page
 
 * Somos un grupo de apasionados por Rabbit R1, siempre buscando aprender más y colaborar en la evolución de la comunidad.
 * <a href="https://t.me/mirabbitosr1_es" style="color: #ff4d00;">Este es nuestro canal de Telegram</a> donde puedes unirte a la conversación.
-* Haz clic en el botón <span style="color: #ff4d00;">`Unirte`</span> para ser parte de nuestra comunidad y mantenerse al tanto de todo lo relacionado con Rabbit R1. (¡Este paso es opcional, pero te hará una persona genial! 😁)
+* Haz clic en el botón <span style="color: #ff4d00;">`Únete`</span> para ser parte de nuestra comunidad y mantenerse al tanto de todo lo relacionado con Rabbit R1. (¡Este paso es opcional, pero te hará una persona genial! 😁)
 
 <br/>
