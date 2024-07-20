@@ -1,85 +1,79 @@
-# Contributing to this project
+# Contribuyendo a MiRabbitOSr1.github.io
 
-* [Contributors Agreement](#user-content-contributors-agreement)
-* [Introduction](#Introduction)
-  * [I don't want to read this whole thing I just have a question!!!](#user-content-i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-* [How Can I Contribute?](#user-content-how-can-i-contribute)
-  * [Reporting Bugs](#user-content-reporting-bugs)
-  * [Suggesting Enhancements](#user-content-suggesting-enhancements)
-  * [Creating Pull Requests](#user-content-creating-pull-requests)
-  
-## Contributors Agreement
+¡Nos alegra que quieras contribuir al proyecto MiRabbitOSr1! Colaborar nos ayuda a mejorar los recursos y la información disponible para la comunidad de Rabbit R1. Esta guía te ayudará a entender cómo contribuir de manera efectiva.
 
-By submitting patches to this project you agree to allow them to be redistributed under the project's license, according to the normal forms and usages of the open-source community.
+## Tabla de Contenidos
+1. [Introducción](#introducción)
+2. [Cómo Crear y Enviar Pull Requests](#cómo-crear-y-enviar-pull-requests)
+3. [Crear Nuevos Archivos](#crear-nuevos-archivos)
+4. [Flujo de Trabajo Clásico de GitHub](#flujo-de-trabajo-clásico-de-github)
+5. [Abrir Problemas (Issues)](#abrir-problemas-issues)
+6. [Contacto](#contacto)
 
-## Introduction
+## Introducción
 
-First off, thank you for considering contributing to this project. It's people like you that make it such a great tool.
+1. **Haz un Fork del Repositorio**: Haz clic en el botón 'Fork' en la parte superior derecha de la página del repositorio para crear tu propia copia del repositorio.
+2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el comando:
+    ```sh
+    git clone https://github.com/tu-usuario/MiRabbitOSr1.github.io.git
+    ```
+3. **Navega al Directorio**: Cambia al directorio del repositorio:
+    ```sh
+    cd MiRabbitOSr1.github.io
+    ```
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+## Cómo Crear y Enviar Pull Requests
 
-This is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the main project itself.
+### Guía Paso a Paso para Pull Requests
 
-### I don't want to read this whole thing I just have a question!!!
+1. **Crea una Nueva Rama**: Es importante crear una nueva rama para cada característica o corrección en la que trabajes. Esto mantiene tu rama principal limpia.
+    ```sh
+    git checkout -b nombre-de-tu-rama
+    ```
+2. **Haz Tus Cambios**: Agrega o modifica archivos en el repositorio.
+3. **Añade los Cambios al Área de Staging**: Una vez que hayas hecho tus cambios, agrégales al área de staging:
+    ```sh
+    git add .
+    ```
+4. **Haz un Commit de Tus Cambios**: Comenta tus cambios con un mensaje descriptivo:
+    ```sh
+    git commit -m "Descripción breve de los cambios"
+    ```
+5. **Sube los Cambios a GitHub**: Sube tus cambios a tu repositorio forked:
+    ```sh
+    git push origin nombre-de-tu-rama
+    ```
+6. **Crea un Pull Request**: Ve al repositorio original y verás un aviso para crear un pull request desde tu nueva rama. Sigue las instrucciones para abrir un pull request.
 
-We currently allow our users to use the issue tracker for support questions. But please be wary that maintaining an open source project can take a lot of time from the maintainers. If asking for a support question, state it clearly and take the time to explain your problem properly. Also, if your problem is not strictly related to this project we recommend you to use Stack Overlow instead.
+### Nombrar Nuevos Archivos
 
-## How Can I Contribute?
+Cuando crees nuevos archivos, usa la siguiente convención de nombres para incluir la fecha y un título descriptivo:
+```plaintext
+YYYY-MM-DD-Titulo-de-Tu-Artículo.md
+```
+Ejemplo:
+```plaintext
+2024-07-20-Actualizaciones-y-mejoras-de-software-en-Rabbit-R1.md
+```
 
-### Reporting Bugs
+Guarda estos archivos en la carpeta `_posts` dentro del repositorio para que se integren correctamente con el sitio web.
 
-Before creating bug reports, please check the existing bug reports as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible.
+## Flujo de Trabajo Clásico de GitHub
 
-#### How Do I Submit A (Good) Bug Report?
+1. **Haz un Fork del Repositorio**: Esto crea una copia del repositorio bajo tu cuenta de GitHub.
+2. **Clona el Repositorio**: Descarga el repositorio en tu máquina local.
+3. **Crea una Rama**: Siempre crea una nueva rama para trabajar en una característica específica o una corrección.
+4. **Haz Cambios**: Agrega, modifica o elimina archivos según sea necesario.
+5. **Haz un Commit de los Cambios**: Realiza un commit con un mensaje claro y conciso.
+6. **Sube los Cambios**: Sube tus cambios a tu repositorio forked.
+7. **Crea un Pull Request**: Envía un pull request al repositorio original para revisión.
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue on the project's repository and provide the following information.
+## Abrir Problemas (Issues)
 
-Explain the problem and include additional details to help maintainers reproduce the problem:
+Si encuentras errores o tienes sugerencias para nuevas características, puedes abrir un problema. Aquí te explicamos cómo:
 
-* **Use a clear and descriptive title** for the issue to identify the problem.
-* **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you used the project. When listing steps, **don't just say what you did, but explain how you did it**.
-* **Provide specific examples to demonstrate the steps**. It's always better to get more information. You can include links to files or GitHub projects, copy/pasteable snippets or even print screens or animated GIFS. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
-* **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
-* **Explain which behavior you expected to see instead and why.**
-* **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
-
-Provide more context by answering these questions:
-
-* **Did the problem start happening recently** (e.g. after updating to a new version) or was this always a problem?
-* If the problem started happening recently, **can you reproduce the problem in an older version?** What's the most recent version in which the problem doesn't happen?
-* **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
-
-Include details about your configuration and environment:
-
-* **Which version of the project are you using?**
-* **What's the name and version of the OS you're using**?
-* **Any other information that could be useful about you environment**
-
-### Suggesting Enhancements
-
-This section guides you through submitting an enhancement suggestion for this project, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
-
-Before creating enhancement suggestions, please check the list of enhancements suggestions in the issue tracker as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible.
-
-#### How Do I Submit A (Good) Enhancement Suggestion?
-
-Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue on the project's repository and provide the following information:
-
-* **Use a clear and descriptive title** for the issue to identify the suggestion.
-* **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
-* **Provide specific examples to demonstrate the steps**. It's always better to get more information. You can include links to files or GitHub projects, copy/pasteable snippets or even print screens or animated GIFS. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
-* **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
-* **List some other similar projects where this enhancement exists.**
-* **Specify which version of the project you're using.**
-* **Specify the current environment you're using.** if this is a useful information.
-
-### Creating Pull Requests
-
-#### How Do I Submit A (Good) Pull Request?
-
-* **Be warned that the contributors agreement displayed on top of this document is applicable as soon as you create a pull request**.
-* **Use a clear and descriptive title** for the pull request to state the improvement you made to the code or the bug you solved.
-* **Provide a link to the related issue** if the pull request is a follow up of an existing bug report or enhancement suggestion.
-* **Comment why this pull request represents an enhancement** and give a rationale explaining why you did it that way and not another way.
-* **Use the same coding style than the one used in this project**.
-* **Welcome suggestions from the maintainers to improve your pull request**. 
+1. **Navega a la Pestaña de Problemas**: Ve a la pestaña [Issues](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io/issues) en el repositorio.
+2. **Haz Clic en Nuevo Problema**: Haz clic en el botón 'New Issue'.
+3. **Completa la Plantilla del Problema**: Proporciona una descripción clara y concisa del problema o sugerencia. Si es un error, incluye pasos para reproducirlo, el comportamiento esperado y capturas de pantalla si es aplicable.
+4. **Envía el Problema**: Haz clic en 'Submit new issue' para crear el problema.
+TRIBUTING.md` proporciona una guía clara y detallada sobre cómo contribuir al repositorio, desde la creación de pull requests hasta la gestión de problemas y la organización de archivos.
