@@ -2,13 +2,35 @@
 layout: page
 ---
 
+<style>
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .flex-child {
+    flex: 1;
+    min-width: 250px; /* Ensures the text doesn't get too narrow */
+  }
+  .flex-child img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  @media (max-width: 768px) {
+    .flex-child {
+      flex: 100%;
+    }
+  }
+</style>
 
 <div class="flex-container">
   <div class="flex-child">
     <a href="https://community.rabbit.tech/t/r1-en-espana">
-        <img src="https://global.discourse-cdn.com/flex002/uploads/rabbit/original/1X/f5575f4802c77cbad7fee3c8a8f83832e8ab2f6d.jpeg" alt="Rabbit R1" width="256" height="143.5">
+        <img src="https://global.discourse-cdn.com/flex002/uploads/rabbit/original/1X/f5575f4802c77cbad7fee3c8a8f83832e8ab2f6d.jpeg" alt="Rabbit R1">
     </a>  
-</div>
+  </div>
   <div class="flex-child">
     <p>En nuestra comunidad, discutimos, compartimos y exploramos todo sobre Rabbit R1. Únete a nosotros para obtener las últimas noticias y actualizaciones sobre el proyecto, y participa en conversaciones con otros entusiastas.</p>
   </div>
