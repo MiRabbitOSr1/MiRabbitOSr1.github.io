@@ -76,4 +76,3 @@ Si encuentras errores o tienes sugerencias para nuevas características, puedes 
 2. **Haz Clic en Nuevo Problema**: Haz clic en el botón 'New Issue'.
 3. **Completa la Plantilla del Problema**: Proporciona una descripción clara y concisa del problema o sugerencia. Si es un error, incluye pasos para reproducirlo, el comportamiento esperado y capturas de pantalla si es aplicable.
 4. **Envía el Problema**: Haz clic en 'Submit new issue' para crear el problema.
-TRIBUTING.md` proporciona una guía clara y detallada sobre cómo contribuir al repositorio, desde la creación de pull requests hasta la gestión de problemas y la organización de archivos.
