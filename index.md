@@ -33,10 +33,9 @@ layout: page
 <div class="flex-container">
   <div class="flex-child">
     <a href="https://community.rabbit.tech/t/r1-en-espana">
-      <video controls>
-        <source src="assets/videos/rabbit-idle.mp4" type="video/mp4">
-        Tu navegador no soporta el elemento de video.
-      </video>
+        <video controls autoplay loop muted>
+          <source src="assets/videos/rabbit-idle.mp4" type="video/mp4">
+        </video>
     </a>
   </div>
 </div>
