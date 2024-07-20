@@ -10,8 +10,6 @@ layout: page
   }
   .flex-child {
     flex: 1;
-    min-width: 250px; /* Ensures the text doesn't get too narrow */
-    margin: 10px;
   }
   .flex-child img {
     max-width: 100%;
