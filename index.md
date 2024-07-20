@@ -36,9 +36,6 @@ layout: page
       <img src="https://global.discourse-cdn.com/flex002/uploads/rabbit/original/1X/f5575f4802c77cbad7fee3c8a8f83832e8ab2f6d.jpeg" alt="Rabbit R1">
     </a>
   </div>
-  <div class="flex-child">
-    <p>En nuestra comunidad, discutimos, compartimos y exploramos todo sobre Rabbit R1. Únete a nosotros para obtener las últimas noticias y actualizaciones sobre el proyecto, y participa en conversaciones con otros entusiastas.</p>
-  </div>
 </div>
 
 <br/>
