@@ -18,6 +18,7 @@ layout: page
     height: auto;
     display: block;
     margin: 0 auto;
+    pointer-events: none; /* Prevents interaction with the video */
   }
   @media (max-width: 768px) {
     .flex-child {
@@ -33,9 +34,9 @@ layout: page
 <div class="flex-container">
   <div class="flex-child">
     <a href="https://community.rabbit.tech/t/r1-en-espana">
-        <video controls autoplay loop muted>
-          <source src="assets/videos/rabbit-idle.mp4" type="video/mp4">
-        </video>
+      <video autoplay loop muted>
+        <source src="assets/videos/rabbit-idle.mp4" type="video/mp4">
+      </video>
     </a>
   </div>
 </div>
