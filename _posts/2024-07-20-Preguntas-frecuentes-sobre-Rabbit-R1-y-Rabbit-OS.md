@@ -1,5 +1,6 @@
 ---
-category: Actualizaciones
+title: Preguntas Frecuentes Sobre Rabbit R1
+categories: [General]
 ---
 
 
