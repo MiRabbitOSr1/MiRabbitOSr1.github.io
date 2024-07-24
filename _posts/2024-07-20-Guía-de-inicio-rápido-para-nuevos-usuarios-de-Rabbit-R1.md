@@ -1,3 +1,7 @@
+---
+tags: ["Guías y Tutoriales"]
+---
+
 # Guía de inicio rápido para nuevos usuarios de Rabbit R1
 
 ## Configuración e Inicialización
