@@ -36,13 +36,10 @@ Para añadir un nuevo artículo, sigue estos pasos:
     2024-07-20-Actualizaciones-y-mejoras-de-software-en-Rabbit-R1.md
     ```
 
-2. **Añade el Contenido del Artículo**: Abre el archivo nuevo en tu editor de texto y añade el contenido del artículo siguiendo el formato de Markdown. Asegúrate de incluir un encabezado adecuado y el contenido necesario. Por ejemplo:
+2. **Añade el Contenido del Artículo**: Abre el archivo nuevo en tu editor de texto y añade la categoría o categorías del artículo siguiendo el formato de Markdown. Asegúrate de incluir un encabezado adecuado y el contenido necesario. Por ejemplo:
     ```plaintext
     ---
-    layout: post
-    title: "Actualizaciones y mejoras de software en Rabbit R1"
-    date: 2024-07-20 10:00:00 +0000
-    categories: [Actualizaciones, Rabbit R1]
+    tags: ["Actualizaciones y Mejoras", "Rabbit R1"]
     ---
 
     # Actualizaciones y mejoras de software en Rabbit R1
