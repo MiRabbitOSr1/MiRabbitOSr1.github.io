@@ -26,6 +26,11 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 - “Lower the volume a little”
 - “Navigate to Wi-Fi settings”
 
+## Acceso a Opciones del Dispositivo
+
+- **Acceso Rápido**: Agita el dispositivo suavemente como si fuera una maraca para acceder a las opciones del Rabbit R1. Este movimiento permitirá que el dispositivo reconozca la acción y abra el menú de ajustes.
+- **Comando de Voz**: Alternativamente, mantén presionado el botón de "press-to-talk" y di “Show me the settings” para abrir directamente las opciones de configuración.
+
 ## Solución de Problemas y Mantenimiento
 
 ### 🟠 Reset del Dispositivo
