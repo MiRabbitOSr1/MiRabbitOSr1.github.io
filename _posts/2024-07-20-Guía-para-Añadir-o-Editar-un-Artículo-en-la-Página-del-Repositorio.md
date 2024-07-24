@@ -1,3 +1,7 @@
+---
+tags: ["Guías y Tutoriales"]
+---
+
 ¡Gracias por tu interés en contribuir a nuestro sitio web! A continuación te explicamos cómo añadir o editar un artículo en el repositorio **MiRabbitOSr1.github.io**. Sigue estos pasos para asegurarte de que tu contribución sea clara y efectiva.
 
 ## Tabla de Contenidos
