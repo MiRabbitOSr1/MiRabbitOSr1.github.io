@@ -1,3 +1,7 @@
+---
+tags: ["Comparativas y Análisis"]
+---
+
 En esta comparativa, analizaremos las diferencias y similitudes entre Rabbit R1 y otros asistentes de voz populares como Siri, Alexa, Google Assistant, ChatGPT. 
 
 #### 🟠 Rabbit R1 vs. Siri
