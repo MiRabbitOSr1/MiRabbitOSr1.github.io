@@ -2,14 +2,14 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
 
 ## Recursos Clave y Enlaces Útiles
 
-### Repositorios y Herramientas
+### 🟠 Repositorios y Herramientas
 
 - [Web de Mi Rabbitos](https://mirabbitosr1.github.io)
 - [GitHub Repo: LAMatHome](https://github.com/dot-Justin/LAMatHome)
 - [Magicam Prompter Tool](https://dotjust.in/tools/magicam_prompter/)
 - [Awesome Rabbit R1](https://github.com/sayhiben/awesome-rabbit-r1)
 
-### Artículos Educativos en Español
+### 🟠 Artículos Educativos en Español
 
 1. **Introducción al Formato Markdown**
    - Aprende a utilizar Markdown para formatear tus documentos y publicaciones en la *rabbit community* de manera sencilla y eficiente.
@@ -25,7 +25,7 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
 
 ## Guía para Configurar y Usar LAMatHome con Rabbit R1
 
-### Pasos para Configuración
+### 🟠 Pasos para Configuración
 
 1. **Instalación de Git y Python**
    - [Instrucciones para Git](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces)
@@ -51,7 +51,7 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
    .\venv\Scripts\python.exe -m playwright install
    ```
 
-### Archivo `.env`
+### 🟠 Archivo `.env`
 
 Para que el sistema funcione correctamente, es necesario rellenar el archivo `.env` con las claves y credenciales apropiadas:
 ```sh
@@ -65,13 +65,13 @@ G_HOME_EMAIL=''
 G_HOME_PASS=''
 ```
 
-### Ejecución del Script Principal
+### 🟠 Ejecución del Script Principal
 ```sh
 .\venv\Scripts\python.exe main.py
 ```
 **Nota:** Las claves de Rabbit caducan a diario, asegúrate de actualizarlas regularmente.
 
-### Automatización en Windows
+### 🟠 Automatización en Windows
 1. **Archivo `.bat`**
    ```bat
    @echo off
