@@ -17,7 +17,7 @@ tags: ["Comunidad y Contribuciones"]
 ## Introducción
 
 1. **Haz un Fork del Repositorio**: Haz clic en el botón 'Fork' en la parte superior derecha de la página del repositorio para crear tu propia copia del repositorio.
-  - Enlace al repositorio en GitHub ➡ [MiRabbitOSr1.github.io](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io)
+  - Enlace al repositorio en GitHub ➡ [MiRabbitOSr1.github.io](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io){:target="_blank"}
 2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el comando:
     ```powershell
     git clone https://github.com/tu-usuario/MiRabbitOSr1.github.io.git
@@ -77,7 +77,7 @@ Ejemplo:
 
 Si encuentras errores o tienes sugerencias para nuevas características, puedes abrir un problema. Aquí te explicamos cómo:
 
-1. **Navega a la Pestaña de Problemas**: Ve a la pestaña [Issues](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io/issues) en el repositorio.
+1. **Navega a la Pestaña de Problemas**: Ve a la pestaña [Issues](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io/issues){:target="_blank"} en el repositorio.
 2. **Haz Clic en Nuevo Problema**: Haz clic en el botón 'New Issue'.
 3. **Completa la Plantilla del Problema**: Proporciona una descripción clara y concisa del problema o sugerencia. Si es un error, incluye pasos para reproducirlo, el comportamiento esperado y capturas de pantalla si es aplicable.
 4. **Envía el Problema**: Haz clic en 'Submit new issue' para crear el problema.
