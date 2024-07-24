@@ -1,5 +1,5 @@
 ---
-categories: [Actualizaciones, Rabbit R1]
+category: Actualizaciones
 ---
 
 
