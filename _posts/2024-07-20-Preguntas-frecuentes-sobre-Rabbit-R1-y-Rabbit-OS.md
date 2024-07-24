@@ -1,5 +1,5 @@
 ---
-tags: ["general"]
+tags: ["Preguntas Frecuentes (FAQ)"]
 ---
 
 
