@@ -70,11 +70,11 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 
 ### 🟠 Escuchar Música en Spotify
 
-- Conéctate a tu cuenta de Spotify y disfruta de música directamente desde el dispositivo.
+- [Conéctate a tu cuenta de Spotify](https://hole.rabbit.tech/connections) y disfruta de música directamente desde el dispositivo.
 
 ### 🟠 Conexión a Suno
 
-- Usa Suno para generar canciones personalizadas y disfrutar de una experiencia musical única.
+- [Usa Suno](https://hole.rabbit.tech/connections) para generar canciones personalizadas y disfrutar de una experiencia musical única.
 
 ### 🟠 Comunidad Rabbit
 
