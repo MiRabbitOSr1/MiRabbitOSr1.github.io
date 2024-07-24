@@ -2,6 +2,11 @@
 tags: ["Actualizaciones y Mejoras"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces">
+    <img src="https://community.rabbit.tech/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
+
+
 En este artículo, informaremos a los usuarios sobre las recientes actualizaciones de software y las nuevas características añadidas al Rabbit R1 para mejorar la experiencia del usuario.
 
 #### 🟠 Versión y Fecha de Lanzamiento
