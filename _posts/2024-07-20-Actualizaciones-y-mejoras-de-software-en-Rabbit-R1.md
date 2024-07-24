@@ -1,3 +1,7 @@
+---
+tags: ["Actualizaciones y Mejoras"]
+---
+
 En este artículo, informaremos a los usuarios sobre las recientes actualizaciones de software y las nuevas características añadidas al Rabbit R1 para mejorar la experiencia del usuario.
 
 #### 🟠 Versión y Fecha de Lanzamiento
