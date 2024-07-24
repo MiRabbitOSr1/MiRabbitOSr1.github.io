@@ -1,3 +1,7 @@
+---
+tags: ["Seguridad y Privacidad"]
+---
+
 Rabbit R1 ha sido diseñado con un enfoque riguroso en la privacidad del usuario. A continuación, se detallan las medidas de seguridad implementadas y cómo el dispositivo opera para proteger la información personal de los usuarios:
 
 1. **Operación sin Almacenamiento de Datos Personales**: Rabbit R1 está diseñado para funcionar sin la necesidad de almacenar datos personales. Esto significa que ninguna información sensible del usuario se guarda en el dispositivo, eliminando el riesgo de filtraciones de datos.
