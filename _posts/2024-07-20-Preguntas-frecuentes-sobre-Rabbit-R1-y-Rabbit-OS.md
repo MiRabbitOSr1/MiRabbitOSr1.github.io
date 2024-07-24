@@ -1,6 +1,6 @@
 ---
-title: Preguntas Frecuentes Sobre Rabbit R1
-categories: [General]
+title: Preguntas Frecuentes Sobre Rabbit R1 y rabbitOS
+tags: ["general"]
 ---
 
 
