@@ -1,3 +1,7 @@
+---
+tags: ["Introducción y Conceptos Básicos"]
+---
+
 El Rabbit R1 es un dispositivo innovador que busca transformar la forma en que los usuarios interactúan con la tecnología. Utilizando inteligencia artificial, Rabbit R1 facilita las tareas diarias a través de comandos de voz y un sistema operativo intuitivo.
 
 # Descripción General de Rabbit R1
