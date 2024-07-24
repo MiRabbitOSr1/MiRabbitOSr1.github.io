@@ -1,3 +1,8 @@
+---
+categories: [Actualizaciones, Rabbit R1]
+---
+
+
 # r1
 1. ¿Qué es el Rabbit R1?
     El Rabbit R1 es un dispositivo de inteligencia artificial portátil que puede realizar diversas tareas, incluida la búsqueda por voz, la reproducción de música y la realización de pedidos en línea.
