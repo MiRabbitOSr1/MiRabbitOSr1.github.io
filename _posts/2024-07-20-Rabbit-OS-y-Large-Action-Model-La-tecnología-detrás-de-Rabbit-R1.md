@@ -1,3 +1,7 @@
+---
+tags: ["Tecnología y Desarrollo"]
+---
+
 rabbitOS es el primer sistema operativo construido sobre el Large Action Model (LAM), una tecnología innovadora que permite al dispositivo inferir y modelar las acciones humanas. Esta capacidad de aprendizaje y adaptación permite que el dispositivo realice tareas de manera rápida y eficiente, basándose en las interacciones y comportamientos del usuario.
 ¿Qué es el Large Action Model (LAM)?
 
