@@ -2,12 +2,12 @@
 
 ## Configuración e Inicialización
 
-### Carga y Encendido
+### 🟠 Carga y Encendido
 
 1. **Conexión a la Corriente**: Conecta tu Rabbit R1 a la corriente usando un cargador o cable USB tipo C.
 2. **Encendido**: Una vez cargado, mantén presionado el botón de encendido brevemente para iniciar el dispositivo.
 
-### Conexión y Configuración Inicial
+### 🟠 Conexión y Configuración Inicial
 
 1. **Abrir la Caja**: Saca el Rabbit R1 de la caja.
 2. **Conexión Wi-Fi**: Sigue las instrucciones en pantalla para conectar el dispositivo a tu red Wi-Fi. Ten a mano tu contraseña de Wi-Fi.
@@ -24,49 +24,49 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 
 ## Solución de Problemas y Mantenimiento
 
-### Reset del Dispositivo
+### 🟠 Reset del Dispositivo
 
 - Si el dispositivo no responde, haz cinco pulsaciones breves con el botón.
 
-### Actualización del Sistema
+### 🟠 Actualización del Sistema
 
 - Asegúrate de tener la última versión del software. Ve a **Configuración > Actualización del Sistema**.
 
-### Restablecimiento de Fábrica
+### 🟠 Restablecimiento de Fábrica
 
 - Si persisten los problemas, realiza un restablecimiento de fábrica desde **Configuración > Restablecimiento de Fábrica**. Esto borrará todos los datos y configuraciones, devolviendo el dispositivo a su estado original.
 
 ## Casos de Uso Innovadores
 
-### Modo de Visión
+### 🟠 Modo de Visión
 
 - **Activación**: Abre el Modo AI tocando dos veces el botón de "press-to-talk" desde el menú idle. La cámara mágica del Rabbit R1 te permitirá identificar objetos y recibir información en tiempo real.
 
-### Magic Camera
+### 🟠 Magic Camera
 
 - **Activación**: 
   1. Abre el Modo AI tocando dos veces el botón de "press-to-talk" desde el menú idle.
   2. Pulsa el botón de "press-to-talk" una vez después de encuadrar tu toma para tomar una foto. La foto se subirá automáticamente al [Rabbithole](https://hole.rabbit.tech) junto a la versión imaginada por Rabbit R1 en modo "pixel".
 
-### Magic Camera Freestyle
+### 🟠 Magic Camera Freestyle
 
 - **Activación y Uso**: 
   1. Abre el Modo AI tocando dos veces el botón de "press-to-talk" desde el menú idle.
   2. Mantén presionado el botón de "press-to-talk" y di “take a picture of [cualquier cosa] with [estilo] style” para tomar una foto y aplicarle el estilo especificado.
   3. Suelta el botón y la imagen se subirá al [Rabbithole](https://hole.rabbit.com) con la modificación que has mencionado y generará la imagen correspondiente al estilo que hayas elegido.
 
-### Edición de Hojas de Cálculo y Transcripción
+### 🟠 Edición de Hojas de Cálculo y Transcripción
 
 - Utiliza el dispositivo para editar hojas de cálculo y transcribir notas de voz de manera eficiente.
 
-### Escuchar Música en Spotify
+### 🟠 Escuchar Música en Spotify
 
 - Conéctate a tu cuenta de Spotify y disfruta de música directamente desde el dispositivo.
 
-### Conexión a Suno
+### 🟠 Conexión a Suno
 
 - Usa Suno para generar canciones personalizadas y disfrutar de una experiencia musical única.
 
-### Comunidad Rabbit
+### 🟠 Comunidad Rabbit
 
 - Únete a la [comunidad de usuarios de Rabbit R1 en España](https://t.me/mirabbitosr1_es) para compartir experiencias y obtener más información.
