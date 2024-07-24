@@ -17,6 +17,7 @@ tags: ["Comunidad y Contribuciones"]
 ## Introducción
 
 1. **Haz un Fork del Repositorio**: Haz clic en el botón 'Fork' en la parte superior derecha de la página del repositorio para crear tu propia copia del repositorio.
+  - Enlace al repositorio en GitHub ➡ [MiRabbitOSr1.github.io](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io)
 2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el comando:
     ```powershell
     git clone https://github.com/tu-usuario/MiRabbitOSr1.github.io.git
