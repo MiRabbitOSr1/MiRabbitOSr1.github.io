@@ -1,3 +1,7 @@
+---
+tags: ["Comunidad y Contribuciones"]
+---
+
 # Contribuyendo a MiRabbitOSr1.github.io
 
 ¡Nos alegra que quieras contribuir al proyecto MiRabbitOSr1! Colaborar nos ayuda a mejorar los recursos y la información disponible para la comunidad de Rabbit R1. Esta guía te ayudará a entender cómo contribuir de manera efectiva.
