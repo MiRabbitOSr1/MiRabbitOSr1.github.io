@@ -1,31 +1,32 @@
+# Guía de inicio rápido para nuevos usuaris de Rabbit R1
+
 ## Configuración e Inicialización
 
 ### Carga y Encendido
 
-1. **Conexión a la Corriente**: Conecta tu Rabbit R1 a la corriente usando el cargador proporcionado.
-2. **Encendido**: Una vez cargado, presiona el botón de encendido para iniciar el dispositivo.
+1. **Conexión a la Corriente**: Conecta tu Rabbit R1 a la corriente usando un cargador o cable USB tipo C.
+2. **Encendido**: Una vez cargado, mantén presionado el botón de encendido brevemente para iniciar el dispositivo.
 
 ### Conexión y Configuración Inicial
 
 1. **Abrir la Caja**: Saca el Rabbit R1 de la caja.
 2. **Conexión Wi-Fi**: Sigue las instrucciones en pantalla para conectar el dispositivo a tu red Wi-Fi. Ten a mano tu contraseña de Wi-Fi.
-3. **Asignación de Nombre**: Durante la configuración, asigna un nombre a tu dispositivo para personalizar tu experiencia.
+3. **Asignación de Nombre**: Durante la configuración, asigna un nombre a tu dispositivo para personalizar tu experiencia. También puedes decirle tu nombre para que lo recuerde.
 4. **Activación y Vinculación**: Activa el dispositivo y vincúlalo a tu cuenta de usuario para acceder a todas las funciones.
 
 ## Comandos de Voz e Interacción
 
 Para utilizar estos comandos, presiona y mantén presionado el botón de "press-to-talk" en el borde derecho del dispositivo. Ejemplos de comandos incluyen:
 
-- “Ajusta el brillo al 50%”
-- “Baja un poco el volumen”
-- “Navega a la configuración de Wi-Fi”
-- “Cambia la zona horaria a Hora Central”
+- “Set the brightness to 50%”
+- “Lower the volume a little”
+- “Navigate to Wi-Fi settings”
 
 ## Solución de Problemas y Mantenimiento
 
-### Reinicio del Dispositivo
+### Reset del Dispositivo
 
-- Si el dispositivo no responde, mantén presionado el botón de encendido durante 10 segundos para reiniciarlo.
+- Si el dispositivo no responde, haz cinco pulsaciones breves con el botón.
 
 ### Actualización del Sistema
 
@@ -45,14 +46,14 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 
 - **Activación**: 
   1. Abre el Modo AI tocando dos veces el botón de "press-to-talk" desde el menú idle.
-  2. Pulsa el botón de "press-to-talk" una vez después de encuadrar tu toma para tomar una foto. La foto se subirá automáticamente al Rabbithole junto a la versión imaginada por Rabbit R1 en modo "pixel".
+  2. Pulsa el botón de "press-to-talk" una vez después de encuadrar tu toma para tomar una foto. La foto se subirá automáticamente al [Rabbithole](https://hole.rabbit.tech) junto a la versión imaginada por Rabbit R1 en modo "pixel".
 
 ### Magic Camera Freestyle
 
 - **Activación y Uso**: 
   1. Abre el Modo AI tocando dos veces el botón de "press-to-talk" desde el menú idle.
-  2. Mantén presionado el botón de "press-to-talk" y di “take a picture of [cualquier cosa] with [style] style” para tomar una foto y aplicarle el estilo especificado.
-  3. Suelta el botón y la imagen se subirá al Rabbithole con la modificación que has mencionado y se generará la imagen correspondiente.
+  2. Mantén presionado el botón de "press-to-talk" y di “take a picture of [cualquier cosa] with [estilo] style” para tomar una foto y aplicarle el estilo especificado.
+  3. Suelta el botón y la imagen se subirá al [Rabbithole](https://hole.rabbit.com) con la modificación que has mencionado y generará la imagen correspondiente al estilo que hayas elegido.
 
 ### Edición de Hojas de Cálculo y Transcripción
 
@@ -68,4 +69,4 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 
 ### Comunidad Rabbit
 
-- Únete a la [comunidad de usuarios de Rabbit R1 en España](https://mirabbitosr1.github.io/assets/images/icon/telegram-48.png) para compartir experiencias y obtener soporte.
+- Únete a la [comunidad de usuarios de Rabbit R1 en España](https://t.me/mirabbitosr1_es) para compartir experiencias y obtener más información.
