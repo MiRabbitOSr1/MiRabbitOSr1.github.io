@@ -1,3 +1,7 @@
+---
+tags: ["Aplicaciones y Usos"]
+---
+
 Los "conejos" o "rabbits" son agentes de inteligencia artificial diseñados para mejorar la experiencia del usuario al interactuar con el dispositivo Rabbit R1. Estos agentes pueden realizar una variedad de tareas, desde consultas simples hasta encargos complejos.
 
 #### 🟠 Variedad de Tareas
