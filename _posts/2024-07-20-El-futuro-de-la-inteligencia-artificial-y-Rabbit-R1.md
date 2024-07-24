@@ -1,6 +1,6 @@
 La inteligencia artificial (IA) ha dejado de ser un concepto futurista para convertirse en una realidad omnipresente que afecta a múltiples aspectos de nuestra vida diaria. Con el avance continuo de la tecnología, es crucial reflexionar sobre cómo la IA y dispositivos innovadores como el Rabbit R1 podrían evolucionar y su impacto en la sociedad.
 
-#### La Evolución de la Inteligencia Artificial
+#### 🟠 La Evolución de la Inteligencia Artificial
 
 ##### Estado Actual de la IA
 
@@ -10,7 +10,7 @@ La IA ha supuesto uno de los grandes avances de la tecnología en los últimos a
 
 En el futuro, se espera que la IA continúe avanzando en áreas como el aprendizaje profundo, la comprensión del lenguaje natural y la robótica. Las redes neuronales serán cada vez más grandes y sofisticadas, lo que permitirá aplicaciones más complejas y precisas. Además, la IA podría transformar sistemas críticos como la sanidad, la agricultura y el transporte, mejorando la eficiencia y la seguridad.
 
-#### Tecnología Rabbit R1
+#### 🟠 Tecnología Rabbit R1
 
 ##### Descripción General
 
@@ -27,7 +27,7 @@ El Rabbit R1 cuenta con una serie de características innovadoras, incluyendo:
 
 Estas características hacen del Rabbit R1 un dispositivo único y versátil, capaz de realizar tareas complejas de manera eficiente.
 
-#### Impacto en la Sociedad
+#### 🟠 Impacto en la Sociedad
 
 ##### IA en la Vida Cotidiana
 
