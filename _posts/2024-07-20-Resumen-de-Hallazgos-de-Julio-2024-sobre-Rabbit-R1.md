@@ -1,3 +1,7 @@
+---
+tags: ["Resúmenes y Reportes"]
+---
+
 En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explorar y maximizar las capacidades del Rabbit R1. A continuación, presentamos un resumen de los avances, descubrimientos y casos de prueba más destacados.
 
 ## Recursos Clave y Enlaces Útiles
