@@ -14,11 +14,11 @@
 
 1. **Haz un Fork del Repositorio**: Haz clic en el botón 'Fork' en la parte superior derecha de la página del repositorio para crear tu propia copia del repositorio.
 2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el comando:
-    ```sh
+    ```powershell
     git clone https://github.com/tu-usuario/MiRabbitOSr1.github.io.git
     ```
 3. **Navega al Directorio**: Cambia al directorio del repositorio:
-    ```sh
+    ```powershell
     cd MiRabbitOSr1.github.io
     ```
 
@@ -27,20 +27,20 @@
 ### 🟠 Guía Paso a Paso para Pull Requests
 
 1. **Crea una Nueva Rama**: Es importante crear una nueva rama para cada característica o corrección en la que trabajes. Esto mantiene tu rama principal limpia.
-    ```sh
+    ```powershell
     git checkout -b nombre-de-tu-rama
     ```
 2. **Haz Tus Cambios**: Agrega o modifica archivos en el repositorio.
 3. **Añade los Cambios al Área de Staging**: Una vez que hayas hecho tus cambios, agrégales al área de staging:
-    ```sh
+    ```powershell
     git add .
     ```
 4. **Haz un Commit de Tus Cambios**: Comenta tus cambios con un mensaje descriptivo:
-    ```sh
+    ```powershell
     git commit -m "Descripción breve de los cambios"
     ```
 5. **Sube los Cambios a GitHub**: Sube tus cambios a tu repositorio forked:
-    ```sh
+    ```powershell
     git push origin nombre-de-tu-rama
     ```
 6. **Crea un Pull Request**: Ve al repositorio original y verás un aviso para crear un pull request desde tu nueva rama. Sigue las instrucciones para abrir un pull request.
