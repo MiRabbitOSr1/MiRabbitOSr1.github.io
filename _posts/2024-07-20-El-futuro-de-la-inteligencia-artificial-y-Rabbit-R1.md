@@ -1,3 +1,7 @@
+---
+tags: ["Futuro y Tendencias"]
+---
+
 La inteligencia artificial (IA) ha dejado de ser un concepto futurista para convertirse en una realidad omnipresente que afecta a múltiples aspectos de nuestra vida diaria. Con el avance continuo de la tecnología, es crucial reflexionar sobre cómo la IA y dispositivos innovadores como el Rabbit R1 podrían evolucionar y su impacto en la sociedad.
 
 #### 🟠 La Evolución de la Inteligencia Artificial
