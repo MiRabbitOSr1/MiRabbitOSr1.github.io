@@ -8,32 +8,32 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
 
 ### 🟠 Repositorios y Herramientas
 
-- [Web de Mi Rabbitos](https://mirabbitosr1.github.io)
-- [GitHub Repo: LAMatHome](https://github.com/dot-Justin/LAMatHome)
-- [Magicam Prompter Tool](https://dotjust.in/tools/magicam_prompter/)
-- [Awesome Rabbit R1](https://github.com/sayhiben/awesome-rabbit-r1)
+- [Web de Mi Rabbitos](https://mirabbitosr1.github.io){:target="_blank"}
+- [GitHub Repo: LAMatHome](https://github.com/dot-Justin/LAMatHome){:target="_blank"}
+- [Magicam Prompter Tool](https://dotjust.in/tools/magicam_prompter/){:target="_blank"}
+- [Awesome Rabbit R1](https://github.com/sayhiben/awesome-rabbit-r1){:target="_blank"}
 
 ### 🟠 Artículos Educativos en Español
 
 1. **Introducción al Formato Markdown**
    - Aprende a utilizar Markdown para formatear tus documentos y publicaciones en la *rabbit community* de manera sencilla y eficiente.
-   - [Leer Artículo](https://medium.com/@axelfernandezcurros/introducci%C3%B3n-al-formato-markdown-0486e5b47809)
+   - [Leer Artículo](https://medium.com/@axelfernandezcurros/introducci%C3%B3n-al-formato-markdown-0486e5b47809){:target="_blank"}
 
 2. **Programación en Python para Principiantes: Una Guía Integral**
    - Una guía completa para aquellos que quieren iniciarse en la programación con Python, uno de los lenguajes más populares y versátiles.
-   - [Leer Artículo](https://medium.com/@axelfernandezcurros/programaci%C3%B3n-en-python-para-principiantes-una-gu%C3%ADa-integral-7e0b87016f84)
+   - [Leer Artículo](https://medium.com/@axelfernandezcurros/programaci%C3%B3n-en-python-para-principiantes-una-gu%C3%ADa-integral-7e0b87016f84){:target="_blank"}
 
 3. **Tu Guía Completa de Iniciado con Git**
    - Descubre los fundamentos de Git, el sistema de control de versiones más utilizado, y mejora tu flujo de trabajo de desarrollo.
-   - [Leer Artículo](https://medium.com/@axelfernandezcurros/tu-gu%C3%ADa-completa-de-iniciado-con-git-b6b475bb6991)
+   - [Leer Artículo](https://medium.com/@axelfernandezcurros/tu-gu%C3%ADa-completa-de-iniciado-con-git-b6b475bb6991){:target="_blank"}
 
 ## Guía para Configurar y Usar LAMatHome con Rabbit R1
 
 ### 🟠 Pasos para Configuración
 
 1. **Instalación de Git y Python**
-   - [Instrucciones para Git](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces)
-   - [Instrucciones para Python](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces)
+   - [Instrucciones para Git](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces){:target="_blank"}
+   - [Instrucciones para Python](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces){:target="_blank"}
 
 2. **Clonación del Repositorio**
    ```powershell
@@ -106,5 +106,5 @@ G_HOME_PASS=''
 
 ## Notas Adicionales
 
-- [Magic Camera Photos Thread](https://community.rabbit.tech/t/magic-camera-photos-thread/151)
-- [Magic Camera Freestyle Photos Thread](https://community.rabbit.tech/t/magic-camera-freestyle-photos-thread/12429)
+- [Magic Camera Photos Thread](https://community.rabbit.tech/t/magic-camera-photos-thread/151){:target="_blank"}
+- [Magic Camera Freestyle Photos Thread](https://community.rabbit.tech/t/magic-camera-freestyle-photos-thread/12429){:target="_blank"}
