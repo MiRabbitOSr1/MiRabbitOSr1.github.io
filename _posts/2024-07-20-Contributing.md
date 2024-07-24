@@ -24,7 +24,7 @@
 
 ## Cómo Crear y Enviar Pull Requests
 
-### Guía Paso a Paso para Pull Requests
+### 🟠 Guía Paso a Paso para Pull Requests
 
 1. **Crea una Nueva Rama**: Es importante crear una nueva rama para cada característica o corrección en la que trabajes. Esto mantiene tu rama principal limpia.
     ```sh
@@ -45,7 +45,7 @@
     ```
 6. **Crea un Pull Request**: Ve al repositorio original y verás un aviso para crear un pull request desde tu nueva rama. Sigue las instrucciones para abrir un pull request.
 
-### Nombrar Nuevos Archivos
+### 🟠 Nombrar Nuevos Archivos
 
 Cuando crees nuevos archivos, usa la siguiente convención de nombres para incluir la fecha y un título descriptivo:
 ```plaintext
@@ -56,7 +56,7 @@ Ejemplo:
 2024-07-20-Actualizaciones-y-mejoras-de-software-en-Rabbit-R1.md
 ```
 
-Guarda estos archivos en la carpeta `_posts` dentro del repositorio para que se integren correctamente con el sitio web.
+⚠️ Guarda estos archivos en la carpeta `_posts` dentro del repositorio para que se integren correctamente con el sitio web. ⚠️
 
 ## Flujo de Trabajo Clásico de GitHub
 
