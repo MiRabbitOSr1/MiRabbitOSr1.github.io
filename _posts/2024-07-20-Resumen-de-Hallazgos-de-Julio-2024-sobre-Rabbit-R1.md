@@ -2,6 +2,10 @@
 tags: ["Resúmenes y Reportes"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
+
 En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explorar y maximizar las capacidades del Rabbit R1. A continuación, presentamos un resumen de los avances, descubrimientos y casos de prueba más destacados.
 
 ## Recursos Clave y Enlaces Útiles

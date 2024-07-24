@@ -2,6 +2,9 @@
 tags: ["Preguntas Frecuentes (FAQ)"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
 
 1. ¿Qué es el Rabbit R1?
     El Rabbit R1 es un dispositivo de inteligencia artificial portátil que puede realizar diversas tareas, incluida la búsqueda por voz, la reproducción de música y la realización de pedidos en línea.

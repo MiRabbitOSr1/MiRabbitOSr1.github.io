@@ -2,6 +2,8 @@
 tags: ["Comunidad y Contribuciones"]
 ---
 
+Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
+
 # Contribuyendo a MiRabbitOSr1.github.io
 
 ¡Nos alegra que quieras contribuir al proyecto MiRabbitOSr1! Colaborar nos ayuda a mejorar los recursos y la información disponible para la comunidad de Rabbit R1. Esta guía te ayudará a entender cómo contribuir de manera efectiva.

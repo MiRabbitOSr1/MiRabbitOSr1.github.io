@@ -2,6 +2,10 @@
 tags: ["Futuro y Tendencias"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
+
 La inteligencia artificial (IA) ha dejado de ser un concepto futurista para convertirse en una realidad omnipresente que afecta a múltiples aspectos de nuestra vida diaria. Con el avance continuo de la tecnología, es crucial reflexionar sobre cómo la IA y dispositivos innovadores como el Rabbit R1 podrían evolucionar y su impacto en la sociedad.
 
 #### 🟠 La Evolución de la Inteligencia Artificial

@@ -2,6 +2,10 @@
 tags: ["Aplicaciones y Usos"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
+
 Los "conejos" o "rabbits" son agentes de inteligencia artificial diseñados para mejorar la experiencia del usuario al interactuar con el dispositivo Rabbit R1. Estos agentes pueden realizar una variedad de tareas, desde consultas simples hasta encargos complejos.
 
 #### 🟠 Variedad de Tareas

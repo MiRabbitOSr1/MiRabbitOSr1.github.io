@@ -2,6 +2,10 @@
 tags: ["Introducción y Conceptos Básicos"]
 ---
 
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+</a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
+
 El Rabbit R1 es un dispositivo innovador que busca transformar la forma en que los usuarios interactúan con la tecnología. Utilizando inteligencia artificial, Rabbit R1 facilita las tareas diarias a través de comandos de voz y un sistema operativo intuitivo.
 
 # Descripción General de Rabbit R1
