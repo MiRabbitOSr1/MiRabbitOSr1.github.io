@@ -1,5 +1,5 @@
 ---
-tags: ["Aplicaciones y Usos"]
+tags: ["Aplicaciones", "Usos"]
 ---
 
 El Rabbit R1 es un dispositivo impulsado por inteligencia artificial diseñado para simplificar y automatizar las tareas diarias de los usuarios. Su tamaño compacto permite que se ajuste perfectamente en la mano, lo que lo hace extremadamente portátil y fácil de usar en cualquier momento y lugar. A continuación, se presentan algunos ejemplos de cómo los usuarios pueden integrar el Rabbit R1 en su rutina diaria:
