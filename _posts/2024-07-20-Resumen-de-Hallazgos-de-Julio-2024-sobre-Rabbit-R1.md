@@ -32,19 +32,19 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
    - [Instrucciones para Python](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces)
 
 2. **Clonación del Repositorio**
-   ```markdown
+   ```powershell
    cd Documentos\git
    git clone https://github.com/dot-Justin/LAMatHome
    ```
 
 3. **Creación del Entorno Virtual de Python**
-   ```sh
+   ```powershell
    cd LAMatHome
    python -m venv venv
    ```
 
 4. **Actualización de pip e Instalación de Dependencias**
-   ```sh
+   ```powershell
    .\venv\Scripts\python.exe -m pip install pip --upgrade
    .\venv\Scripts\python.exe -m pip install -r .\requirements.txt
    .\venv\Scripts\python.exe -m pip install open-interpreter
@@ -54,7 +54,7 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
 ### 🟠 Archivo `.env`
 
 Para que el sistema funcione correctamente, es necesario rellenar el archivo `.env` con las claves y credenciales apropiadas:
-```sh
+```powershell
 RH_ACCESS_TOKEN=''
 GROQ_API_KEY=''
 DC_EMAIL=''
@@ -66,14 +66,14 @@ G_HOME_PASS=''
 ```
 
 ### 🟠 Ejecución del Script Principal
-```sh
+```powershell
 .\venv\Scripts\python.exe main.py
 ```
 **Nota:** Las claves de Rabbit caducan a diario, asegúrate de actualizarlas regularmente.
 
 ### 🟠 Automatización en Windows
 1. **Archivo `.bat`**
-   ```bat
+   ```powershell
    @echo off
    set powershellScriptPath=%USERPROFILE%\Documents\git\LAMatHome\runLAMatHome.ps1
    set powershellPath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
