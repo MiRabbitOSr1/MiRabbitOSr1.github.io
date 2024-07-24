@@ -32,7 +32,7 @@ En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explora
    - [Instrucciones para Python](https://community.rabbit.tech/t/r1-en-espana/9110/9?u=afaces)
 
 2. **Clonación del Repositorio**
-   ```sh
+   ```python
    cd Documentos\git
    git clone https://github.com/dot-Justin/LAMatHome
    ```
