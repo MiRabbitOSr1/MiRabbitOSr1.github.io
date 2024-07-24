@@ -1,4 +1,4 @@
-# Guía de inicio rápido para nuevos usuaris de Rabbit R1
+# Guía de inicio rápido para nuevos usuarios de Rabbit R1
 
 ## Configuración e Inicialización
 
