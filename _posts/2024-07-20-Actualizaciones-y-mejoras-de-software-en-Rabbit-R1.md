@@ -5,7 +5,7 @@ tags: ["Actualizaciones y Mejoras"]
 En este artículo, informaremos a los usuarios sobre las recientes actualizaciones de software y las nuevas características añadidas al Rabbit R1 para mejorar la experiencia del usuario.
 
 #### 🟠 Versión y Fecha de Lanzamiento
-- **Versión**: Última actualización de software lanzada el **11 de julio de 2024**.
+- **Versión**: Última actualización de software lanzada el **18 de julio de 2024**.
 
 #### 🟠 Nuevas Características y Mejoras
 - **Mejora de la Latencia**: Se han realizado mejoras para reducir la latencia y mejorar el rendimiento general.
