@@ -2,8 +2,8 @@
 tags: ["Actualizaciones y Mejoras"]
 ---
 
-created on <a href="https://community.rabbit.tech/u/afaces">
-    <img src="https://community.rabbit.tech/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
+created on <a href="https://community.rabbit.tech/u/afaces"> 
+    <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
 </a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
 
 
