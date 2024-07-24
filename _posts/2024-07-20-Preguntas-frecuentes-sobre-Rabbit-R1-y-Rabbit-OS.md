@@ -1,5 +1,4 @@
 ---
-title: Preguntas Frecuentes Sobre Rabbit R1 y rabbitOS
 tags: ["general"]
 ---
 
