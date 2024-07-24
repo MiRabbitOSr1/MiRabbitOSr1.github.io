@@ -15,11 +15,11 @@ Antes de comenzar, asegúrate de tener una cuenta en [GitHub](https://github.com
 
 1. **Haz un Fork del Repositorio**: Ve a [MiRabbitOSr1.github.io](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io) y haz clic en el botón 'Fork' en la parte superior derecha para crear tu propia copia del repositorio.
 2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el siguiente comando:
-    ```sh
+    ```powershell
     git clone https://github.com/tu-usuario/MiRabbitOSr1.github.io.git
     ```
 3. **Navega al Directorio**: Cambia al directorio del repositorio clonado:
-    ```sh
+    ```powershell
     cd MiRabbitOSr1.github.io
     ```
 
@@ -33,7 +33,7 @@ Para añadir un nuevo artículo, sigue estos pasos:
     ```
 
 2. **Añade el Contenido del Artículo**: Abre el archivo nuevo en tu editor de texto y añade el contenido del artículo siguiendo el formato de Markdown. Asegúrate de incluir un encabezado adecuado y el contenido necesario. Por ejemplo:
-    ```markdown
+    ```plaintext
     ---
     layout: post
     title: "Actualizaciones y mejoras de software en Rabbit R1"
@@ -61,22 +61,22 @@ Para editar un artículo existente:
 Sigue estos pasos para confirmar tus cambios y preparar un pull request:
 
 1. **Crea una Nueva Rama**: Antes de hacer cambios, crea una nueva rama para tu trabajo. Esto ayuda a mantener la rama principal limpia.
-    ```sh
+    ```powershell
     git checkout -b nombre-de-tu-rama
     ```
    
 2. **Añade los Cambios al Área de Staging**: Después de realizar los cambios en el archivo, agrégales al área de staging:
-    ```sh
+    ```powershell
     git add _posts/2024-07-20-Actualizaciones-y-mejoras-de-software-en-Rabbit-R1.md
     ```
    
 3. **Haz un Commit de los Cambios**: Realiza un commit con un mensaje descriptivo sobre los cambios que has hecho:
-    ```sh
+    ```powershell
     git commit -m "Añadido nuevo artículo sobre actualizaciones y mejoras en Rabbit R1"
     ```
 
 4. **Sube los Cambios a GitHub**: Sube tu rama con los cambios a tu repositorio forked:
-    ```sh
+    ```powershell
     git push origin nombre-de-tu-rama
     ```
 
