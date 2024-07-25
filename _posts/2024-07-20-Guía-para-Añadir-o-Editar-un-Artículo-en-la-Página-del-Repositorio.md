@@ -149,17 +149,17 @@ Si encuentras problemas o deseas sugerir mejoras:
 Antes de crear un pull request, es recomendable previsualizar tu artículo para asegurarte de que se vea como esperas. Aquí te explicamos cómo hacerlo utilizando Jekyll:
 
 1. **Instala Jekyll y Bundler**:
-    ```bash
+    ```powershell
     gem install jekyll bundler
     ```
 
 2. **Instala las Dependencias del Proyecto**:
-    ```bash
+    ```powershell
     bundle install
     ```
 
 3. **Inicia el Servidor de Jekyll**:
-    ```bash
+    ```powershell
     bundle exec jekyll serve
     ```
 
@@ -178,7 +178,7 @@ Es crucial mantener la seguridad de tu proyecto evitando subir información sens
     Esto asegura que tu archivo `.env` nunca se suba accidentalmente a tu repositorio.
 
 2. **Añade y Commitea el .gitignore**:
-    ```bash
+    ```plaintext
     git add .gitignore
     git commit -m "Añadir .gitignore para evitar subir información sensible"
     ```
