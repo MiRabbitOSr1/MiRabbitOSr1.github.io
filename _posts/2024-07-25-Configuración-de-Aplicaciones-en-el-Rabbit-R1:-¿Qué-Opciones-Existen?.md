@@ -10,7 +10,7 @@ created on <a href="https://community.rabbit.tech/u/afaces">
 
 El Rabbit R1 es un dispositivo versátil que permite la integración y configuración de diversas aplicaciones para maximizar su utilidad en diferentes escenarios. A continuación, se detallan los pasos para configurar algunas de las aplicaciones más populares en el Rabbit R1.
 
-#### 1. Spotify
+#### 1. 🟠 Spotify
 Para configurar Spotify en el Rabbit R1, sigue estos pasos:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
@@ -18,7 +18,7 @@ Para configurar Spotify en el Rabbit R1, sigue estos pasos:
 4. **Iniciar sesión**: Ingresa tus credenciales de Spotify para vincular tu cuenta.
 5. **Configuración adicional**: Ajusta las preferencias de reproducción y calidad de audio según tus necesidades.
 
-#### 2. Apple Music
+#### 2. 🟠 Apple Music
 Para configurar Apple Music en el Rabbit R1:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
@@ -26,7 +26,7 @@ Para configurar Apple Music en el Rabbit R1:
 4. **Iniciar sesión**: Ingresa tus credenciales de Apple Music para vincular tu cuenta.
 5. **Configuración adicional**: Ajusta las preferencias de reproducción y calidad de audio según tus necesidades.
 
-#### 3. Uber
+#### 3. 🟠 Uber
 Para configurar Uber en el Rabbit R1:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
@@ -34,7 +34,7 @@ Para configurar Uber en el Rabbit R1:
 4. **Iniciar sesión**: Ingresa tus credenciales de Uber para vincular tu cuenta.
 5. **Configuración adicional**: Ajusta las preferencias de ubicación y métodos de pago según tus necesidades.
 
-#### 4. DoorDash
+#### 4. 🟠 DoorDash
 Para configurar DoorDash en el Rabbit R1:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
@@ -42,7 +42,7 @@ Para configurar DoorDash en el Rabbit R1:
 4. **Iniciar sesión**: Ingresa tus credenciales de DoorDash para vincular tu cuenta.
 5. **Configuración adicional**: Ajusta las preferencias de entrega y métodos de pago según tus necesidades.
 
-#### 5. MidJourney
+#### 5. 🟠 MidJourney
 Para configurar MidJourney en el Rabbit R1:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
@@ -50,7 +50,7 @@ Para configurar MidJourney en el Rabbit R1:
 4. **Iniciar sesión**: Ingresa tus credenciales de MidJourney para vincular tu cuenta.
 5. **Configuración adicional**: Ajusta las preferencias de generación de imágenes y otros parámetros según tus necesidades.
 
-#### 6. Suno
+#### 6. 🟠 Suno
 Para configurar Suno en el Rabbit R1:
 1. **Activar el dispositivo**: Enciende tu Rabbit R1 y asegúrate de que esté conectado a internet.
 2. **Acceder a la configuración**: Navega a través del menú utilizando la rueda de desplazamiento y selecciona la opción de aplicaciones.
