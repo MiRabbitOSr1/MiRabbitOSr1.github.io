@@ -2,7 +2,7 @@
 tags: ["Guías y Tutoriales"]
 ---
 
-Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
+Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 
 ¡Gracias por tu interés en contribuir a nuestro sitio web! A continuación te explicamos cómo añadir o editar un artículo en el repositorio **MiRabbitOSr1.github.io**. Sigue estos pasos para asegurarte de que tu contribución sea clara y efectiva.
 
@@ -73,7 +73,7 @@ Es importante distinguir si el contenido ha sido creado por un autor humano o un
 Para firmar un artículo escrito por un autor humano, añade lo siguiente después de los tags antes del contenido del artículo:
 
 ```plaintext
-Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
+Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 ```
 
 ### Creado por r1
@@ -96,7 +96,7 @@ Los usuarios pueden personalizar estas firmas para mejorar la transparencia y la
 ### Ejemplo Personalizado
 
 ```plaintext
-Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/tu_usuario/48/2649_2.png" alt="Tu Usuario" width="16" height="16">](https://community.rabbit.tech/u/tu_usuario) [Tu Nombre](https://community.rabbit.tech/u/tu_usuario)
+Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/tu_usuario/48/2649_2.png" alt="Tu Usuario" width="16" height="16">](https://community.rabbit.tech/u/tu_usuario) [Tu Nombre](https://community.rabbit.tech/u/tu_usuario)
 
 created on <a href="https://community.rabbit.tech/u/tu_usuario">
     <img src="/assets/images/tu_r1.png" alt="Tu r1" width="16" height="16">
@@ -108,7 +108,7 @@ created on <a href="https://community.rabbit.tech/u/tu_usuario">
 Para artículos con varios autores, añade las firmas de todos los autores de la siguiente manera:
 
 ```plaintext
-Authors: 
+Autores: 
 [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/autor1/48/2649_2.png" alt="Autor1" width="16" height="16">](https://community.rabbit.tech/u/autor1) [Autor1](https://community.rabbit.tech/u/autor1), 
 [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/autor2/48/2649_2.png" alt="Autor2" width="16" height="16">](https://community.rabbit.tech/u/autor2) [Autor2](https://community.rabbit.tech/u/autor2)
 ```
