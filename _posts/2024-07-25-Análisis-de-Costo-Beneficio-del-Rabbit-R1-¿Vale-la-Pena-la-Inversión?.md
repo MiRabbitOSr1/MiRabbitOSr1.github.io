@@ -6,8 +6,6 @@ created on <a href="https://community.rabbit.tech/u/afaces">
     <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
 </a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
 
-### 🟠 Análisis de Costo-Beneficio del Rabbit R1: ¿Vale la Pena la Inversión?
-
 #### **Costo del Rabbit R1**
 El Rabbit R1 tiene un precio de $199 USD. Este costo es relativamente accesible en comparación con otros dispositivos de inteligencia artificial y asistentes virtuales en el mercado.
 
