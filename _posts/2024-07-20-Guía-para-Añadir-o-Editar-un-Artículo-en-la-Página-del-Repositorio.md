@@ -139,9 +139,7 @@ Sigue estos pasos para confirmar tus cambios y preparar un pull request:
     git commit -m "Añadido nuevo artículo sobre actualizaciones y mejoras en Rabbit R1"
     ```
 
-4. **Sube los Cambios a GitHub**: Sube tu rama con los cambios a tu
-
- repositorio forked:
+4. **Sube los Cambios a GitHub**: Sube tu rama con los cambios a tu repositorio forked:
     ```plaintext
     git push origin nombre-de-tu-rama
     ```
