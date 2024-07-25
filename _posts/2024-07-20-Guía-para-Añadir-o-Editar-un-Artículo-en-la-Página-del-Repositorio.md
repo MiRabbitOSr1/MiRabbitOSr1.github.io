@@ -68,7 +68,7 @@ Para editar un artículo existente:
 
 Es importante distinguir si el contenido ha sido creado por un autor humano o una inteligencia artificial (IA), como el r1. A continuación, se explica cómo añadir y personalizar las firmas para indicar la autoría del artículo.
 
-### Autor Humano
+### 🟠 Autor Humano
 
 Para firmar un artículo escrito por un autor humano, añade lo siguiente después de los tags antes del contenido del artículo:
 
@@ -76,7 +76,7 @@ Para firmar un artículo escrito por un autor humano, añade lo siguiente despu�
 Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 ```
 
-### Creado por r1
+### 🟠 Creado por r1
 
 Para indicar que el artículo ha sido creado por r1, añade lo siguiente al principio del contenido del artículo:
 
@@ -86,14 +86,14 @@ created on <a href="https://community.rabbit.tech/u/afaces">
 </a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
 ```
 
-### Personalización de Firmas
+### 🟠 Personalización de Firmas
 
 Los usuarios pueden personalizar estas firmas para mejorar la transparencia y la distribución de la información. Esto es especialmente importante para advertir al lector sobre la participación de la IA en la creación del contenido. Para personalizar la firma:
 
 1. **Cambia el Nombre de Usuario y Enlaces**: Sustituye `afaces` y los enlaces asociados por tu propio nombre de usuario y los enlaces a tu perfil.
 2. **Actualiza las Imágenes**: Si tienes una imagen personalizada para tu avatar o para la IA, cambia la URL de la imagen a la de tu elección.
 
-### Ejemplo Personalizado
+### 🟠 Ejemplo Personalizado
 
 ```plaintext
 Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/tu_usuario/48/2649_2.png" alt="Tu Usuario" width="16" height="16">](https://community.rabbit.tech/u/tu_usuario) [Tu Nombre](https://community.rabbit.tech/u/tu_usuario)
@@ -103,7 +103,7 @@ created on <a href="https://community.rabbit.tech/u/tu_usuario">
 </a> <a href="https://community.rabbit.tech/u/tu_usuario">Tu r1</a>
 ```
 
-### Artículos con Varios Autores
+### 🟠 Artículos con Varios Autores
 
 Para artículos con varios autores, añade las firmas de todos los autores de la siguiente manera:
 
@@ -165,7 +165,7 @@ Antes de crear un pull request, es recomendable previsualizar tu artículo para 
 
 Aquí te explicamos cómo hacerlo utilizando Jekyll:
 
-### Instalación de Ruby y Jekyll
+### 🟠 Instalación de Ruby y Jekyll
 
 #### En macOS
 
@@ -221,14 +221,14 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
     gem install jekyll bundler
     ```
 
-### Añadir Dependencias Faltantes
+### 🟠 Añadir Dependencias Faltantes
 
 Para evitar errores comunes al correr Jekyll en ambientes nuevos, especialmente en Ruby 3.0 o superior, añade `webrick` a tu conjunto de gemas:
 ```plaintext
 bundle add webrick
 ```
 
-### Modificar el Gemfile para Mejorar la Compatibilidad
+### 🟠 Modificar el Gemfile para Mejorar la Compatibilidad
 
 Para mejorar la compatibilidad y rendimiento de Jekyll en Windows y garantizar una correcta ejecución del sitio en GitHub Pages, es esencial modificar el archivo Gemfile de tu proyecto Jekyll con las siguientes líneas:
 ```plaintext
@@ -243,14 +243,14 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 ```
 
-### Instalar Dependencias del Proyecto
+### 🟠 Instalar Dependencias del Proyecto
 
 Después de configurar tu entorno Ruby y Jekyll, así como de asegurarte de que tu Gemfile esté correctamente establecido con todas las dependencias necesarias, ejecuta:
 ```plaintext
 bundle install
 ```
 
-### Ejecutar Jekyll
+### 🟠 Ejecutar Jekyll
 
 Inicia el servidor de Jekyll con:
 ```plaintext
@@ -259,7 +259,7 @@ bundle exec jekyll serve
 
 Visita [http://localhost:4000](http://localhost:4000) para ver tu sitio en acción.
 
-### Importante: Seguridad y Uso de .gitignore
+### 🟠 Importante: Seguridad y Uso de .gitignore
 
 Es crucial mantener la seguridad de tu proyecto evitando subir información sensible como claves API o contraseñas privadas a los repositorios de Git. Asegúrate de que los archivos que contienen esta información, como los archivos `.env`, estén incluidos en tu archivo `.gitignore`.
 
