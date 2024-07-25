@@ -82,179 +82,186 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 
 ## Casos de Uso de Vanguardia
 
-### Conversational Prompts
+### 🟠 Conversaciones Cotidianas
 
 Utiliza Rabbit R1 para mantener conversaciones cotidianas y motivacionales.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Tell me some motivational quotes.”
-  - “Tell me a knock-knock joke.”
-  - “I’m feeling sad today. Can you cheer me up?”
-  - “Tell me a bedtime story.”
-
+  <ul>
+    <li>“Tell me some motivational quotes.”</li>
+    <li>“Tell me a knock-knock joke.”</li>
+    <li>“I’m feeling sad today. Can you cheer me up?”</li>
+    <li>“Tell me a bedtime story.”</li>
+  </ul>
 </details>
 
-### Answering Questions
+### 🟠 Respuestas a Preguntas
 
 Aprovecha herramientas avanzadas como Perplexity y Wolfram Alpha para responder preguntas y proporcionar recomendaciones.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “What's the weather in my location?”
-  - “Search Wolfram Alpha and explain how G-force gravity works.”
-  - “Check Perplexity for when the Paris Olympics start.”
-  - “How can I get better sleep at night?”
-  - “Who is the lead singer of The Killers?”
-  - “What does the word 'ostensible' mean?”
-  - “What is 5 cups converted to liters?”
-  - “Give me a low-carb recipe for banana pancakes.”
-  - “Can you explain the theory of relativity in simple terms?”
-  - “Get me images of Serena Williams from the US Open.”
-  - “Can you recommend a book about Zen Buddhism?”
-
+  <ul>
+    <li>“What's the weather in my location?”</li>
+    <li>“Search Wolfram Alpha and explain how G-force gravity works.”</li>
+    <li>“Check Perplexity for when the Paris Olympics start.”</li>
+    <li>“How can I get better sleep at night?”</li>
+    <li>“Who is the lead singer of The Killers?”</li>
+    <li>“What does the word 'ostensible' mean?”</li>
+    <li>“What is 5 cups converted to liters?”</li>
+    <li>“Give me a low-carb recipe for banana pancakes.”</li>
+    <li>“Can you explain the theory of relativity in simple terms?”</li>
+    <li>“Get me images of Serena Williams from the US Open.”</li>
+    <li>“Can you recommend a book about Zen Buddhism?”</li>
+  </ul>
 </details>
 
-### Follow-Up Questions
+### 🟠 Preguntas de Seguimiento
 
 Tu Rabbit R1 entenderá a qué te refieres sin necesidad de especificar todos los detalles nuevamente.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Who wrote the song I Feel For You by Chaka Khan?”
-    - “Play his most popular album.”
-  - “What is the most dangerous insect on Earth?”
-    - “In what countries are they most commonly found?”
-  - “Look up pictures of Chihuahuas.”
-    - “What are some interesting facts about them?”
-
+  <ul>
+    <li>“Who wrote the song I Feel For You by Chaka Khan?”
+      <ul>
+        <li>“Play his most popular album.”</li>
+      </ul>
+    </li>
+    <li>“What is the most dangerous insect on Earth?”
+      <ul>
+        <li>“In what countries are they most commonly found?”</li>
+      </ul>
+    </li>
+    <li>“Look up pictures of Chihuahuas.”
+      <ul>
+        <li>“What are some interesting facts about them?”</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
-### Note-Taking
+### 🟠 Toma de Notas
 
 Utiliza tu r1 como un tomador de notas todo-en-uno.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Save a note that says: ‘I had a really good day today, met a new friend named Ash from Canada and her birthday is May 1, her horoscope sign is Cancer. I also went on a hike and had dinner with my friends.’”
-  - “2 tbsp Lemon juice, 2 tbsp mustard, 2 tbsp olive oil, salt and pepper makes a great salad dressing. Save this as a note.”
-
+  <ul>
+    <li>“Save a note that says: ‘I had a really good day today, met a new friend named Ash from Canada and her birthday is May 1, her horoscope sign is Cancer. I also went on a hike and had dinner with my friends.’”</li>
+    <li>“2 tbsp Lemon juice, 2 tbsp mustard, 2 tbsp olive oil, salt and pepper makes a great salad dressing. Save this as a note.”</li>
+  </ul>
 </details>
 
-### Voice Recording
+### 🟠 Grabación de Voz
 
 Usa r1 como tu grabadora de voz portátil.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Start the meeting assistant.”
-  - “Start a recording session for me.”
-
+  <ul>
+    <li>“Start the meeting assistant.”</li>
+    <li>“Start a recording session for me.”</li>
+  </ul>
 </details>
 
-### Vision Mode
+### 🟠 Modo de Visión
 
 Utiliza la cámara del r1 para potenciar tus búsquedas y ayudar en la transcripción de textos.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Turn this table into a spreadsheet and send to me via email.”
-  - “Can you suggest which pair of shoes I should wear with this outfit?”
-  - “Can you estimate how many calories are in a cup of orange juice?”
-  - “Can you summarize this text on the whiteboard?”
-  - “What can I cook with these ingredients?”
-  - “Take a look at this sheet and transcribe it for me.”
-  - “What does this sign say in English?”
-
+  <ul>
+    <li>“Turn this table into a spreadsheet and send to me via email.”</li>
+    <li>“Can you suggest which pair of shoes I should wear with this outfit?”</li>
+    <li>“Can you estimate how many calories are in a cup of orange juice?”</li>
+    <li>“Can you summarize this text on the whiteboard?”</li>
+    <li>“What can I cook with these ingredients?”</li>
+    <li>“Take a look at this sheet and transcribe it for me.”</li>
+    <li>“What does this sign say in English?”</li>
+  </ul>
 </details>
 
-### Music Control
+### 🟠 Control de Música
 
 Reproduce cualquier canción, lista de reproducción, género o estado de ánimo en Spotify o Apple Music.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Play the album 'Computer World' by Kraftwerk.”
-  - “Play ‘this is Taylor Swift playlist’ on Spotify.”
-  - “Play ‘Here Comes the Sun’.”
-  - “Play a song by Imagine Dragons.”
-  - “Start a chill lofi study playlist.”
-  - “Play some pumped up and motivational music on Spotify.”
-  - “Pause the music.”
-  - “Skip to the next song.”
-
+  <ul>
+    <li>“Play the album 'Computer World' by Kraftwerk.”</li>
+    <li>“Play ‘this is Taylor Swift playlist’ on Spotify.”</li>
+    <li>“Play ‘Here Comes the Sun’.”</li>
+    <li>“Play a song by Imagine Dragons.”</li>
+    <li>“Start a chill lofi study playlist.”</li>
+    <li>“Play some pumped up and motivational music on Spotify.”</li>
+    <li>“Pause the music.”</li>
+    <li>“Skip to the next song.”</li>
+  </ul>
 </details>
 
-### Service Requests
+### 🟠 Solicitudes de Servicios
 
 Solicita un Uber o haz un pedido de comida en DoorDash con solo tu voz.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Call me an Uber from 123 Broadway Ave to 456 Random St.”
-  - “Order Mexican food on DoorDash.”
-  - “Order from Starbucks on DoorDash.”
-
+  <ul>
+    <li>“Call me an Uber from 123 Broadway Ave to 456 Random St.”</li>
+    <li>“Order Mexican food on DoorDash.”</li>
+    <li>“Order from Starbucks on DoorDash.”</li>
+  </ul>
 </details>
 
-### Yelp Integration
+### 🟠 Integración con Yelp
 
 Encuentra los mejores restaurantes y tiendas en cualquier ubicación.
 
 <details>
- 
-
- <summary>Ejemplos</summary>
-
-  - “Search Yelp for the best coffee shop in town.”
-  - “Search Yelp for the best gyms in Santa Monica.”
-
+  <summary>Ejemplos</summary>
+  <ul>
+    <li>“Search Yelp for the best coffee shop in town.”</li>
+    <li>“Search Yelp for the best gyms in Santa Monica.”</li>
+  </ul>
 </details>
 
-### Midjourney Integration
+### 🟠 Integración con Midjourney
 
 Accede a herramientas generativas de imágenes para diseñar o visualizar tus ideas.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Generate an image in a cartoon style of a rabbit eating a carrot.”
-  - “Generate an image of a design for a racecar with cheese wheels.”
-  - “Can you generate a logo for a wine shop, featuring pickles and cheese?”
-
+  <ul>
+    <li>“Generate an image in a cartoon style of a rabbit eating a carrot.”</li>
+    <li>“Generate an image of a design for a racecar with cheese wheels.”</li>
+    <li>“Can you generate a logo for a wine shop, featuring pickles and cheese?”</li>
+  </ul>
 </details>
 
-### Translation
+### 🟠 Traducción
 
 Utiliza r1 para traducir entre más de 100 idiomas al instante.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Start translating from French to English for me.”
-
+  <ul>
+    <li>“Start translating from French to English for me.”</li>
+  </ul>
 </details>
 
-### Device Voice Control
+### 🟠 Control de Voz del Dispositivo
 
 Controla la configuración de tu dispositivo solo con tu voz.
 
 <details>
   <summary>Ejemplos</summary>
-
-  - “Turn the brightness to 50%.”
-  - “Turn the volume down a bit.”
-  - “Navigate to Wi-Fi settings.”
-  - “Change the time zone to Central Time.”
-
+  <ul>
+    <li>“Turn the brightness to 50%.”</li>
+    <li>“Turn the volume down a bit.”</li>
+    <li>“Navigate to Wi-Fi settings.”</li>
+    <li>“Change the time zone to Central Time.”</li>
+  </ul>
 </details>
 
 [Soporte y Más Información](https://www.rabbit.tech/support/article/rabbit-r1-voice-prompts)
