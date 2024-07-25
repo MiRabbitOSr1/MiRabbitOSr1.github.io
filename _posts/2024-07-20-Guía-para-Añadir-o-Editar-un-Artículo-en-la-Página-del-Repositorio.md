@@ -13,11 +13,13 @@ Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.
 4. [Flujo de Trabajo de Git](#flujo-de-trabajo-de-git)
 5. [Crear un Pull Request](#crear-un-pull-request)
 6. [Abrir Issues](#abrir-issues)
-7. [Contacto](#contacto)
+7. [Previsualización del Artículo](#previsualización-del-artículo)
 
 ## Preparación
 
-Antes de comenzar, asegúrate de tener una cuenta en [GitHub](https://github.com) y haber clonado el repositorio. Si aún no lo has hecho, sigue estos pasos:
+Antes de comenzar, asegúrate de tener una cuenta en [GitHub](https://github.com), tener Git instalado y haber clonado el repositorio. Si aún no lo has hecho, sigue estos pasos:
+
+0. **Instala Git**: [Guía Completa de Iniciado con Git](https://medium.com/@axelfernandezcurros/tu-gu%C3%ADa-completa-de-iniciado-con-git-b6b475bb6991){:target="_blank"}.
 
 1. **Haz un Fork del Repositorio**: Ve a [MiRabbitOSr1.github.io](https://github.com/MiRabbitOSr1/MiRabbitOSr1.github.io) y haz clic en el botón 'Fork' en la parte superior derecha para crear tu propia copia del repositorio.
 2. **Clona el Repositorio Forkeado**: Clona tu fork en tu máquina local usando el siguiente comando:
@@ -49,6 +51,8 @@ Para añadir un nuevo artículo, sigue estos pasos:
     Aquí va el contenido del artículo...
     ```
 
+    *Si no estás familiarizado con Markdown, puedes aprender cómo usarlo en el siguiente artículo:* [**Introducción al Formato Markdown**](https://medium.com/@axelfernandezcurros/introducci%C3%B3n-al-formato-markdown-0486e5b47809){:target="_blank"}.
+
 3. **Guarda y Cierra el Archivo**.
 
 ## Editar un Artículo Existente
@@ -58,6 +62,7 @@ Para editar un artículo existente:
 1. **Encuentra el Archivo a Editar**: Navega a la carpeta `_posts` y localiza el archivo Markdown que deseas editar.
 2. **Haz los Cambios Necesarios**: Abre el archivo en tu editor de texto y realiza las modificaciones requeridas.
 3. **Guarda y Cierra el Archivo**.
+
 
 ## Flujo de Trabajo de Git
 
@@ -97,3 +102,44 @@ Si encuentras problemas o deseas sugerir mejoras:
 2. **Haz Clic en Nuevo Problema**: Haz clic en el botón 'New Issue'.
 3. **Completa la Plantilla del Problema**: Describe claramente el problema o la sugerencia. Si es un error, incluye pasos para reproducirlo y cualquier otra información relevante.
 4. **Envía el Problema**: Haz clic en 'Submit new issue'.
+
+## Previsualización del Artículo
+
+Antes de crear un pull request, es recomendable previsualizar tu artículo para asegurarte de que se vea como esperas. Aquí te explicamos cómo hacerlo utilizando Jekyll:
+
+1. **Instala Jekyll y Bundler**:
+    ```bash
+    gem install jekyll bundler
+    ```
+
+2. **Instala las Dependencias del Proyecto**:
+    ```bash
+    bundle install
+    ```
+
+3. **Inicia el Servidor de Jekyll**:
+    ```bash
+    bundle exec jekyll serve
+    ```
+
+4. **Visualiza tu Sitio Web**: Abre tu navegador y ve a `http://localhost:4000` para ver tu sitio en acción.
+
+### Importante: Seguridad y Uso de .gitignore
+
+Es crucial mantener la seguridad de tu proyecto evitando subir información sensible como claves API o contraseñas privadas a los repositorios de Git. Asegúrate de que los archivos que contienen esta información, como los archivos `.env`, estén incluidos en tu archivo `.gitignore`.
+
+1. **Crea un Archivo .gitignore** en la raíz de tu proyecto si no lo tienes ya:
+    ```plaintext
+    .env
+    node_modules/
+    .DS_Store
+    ```
+    Esto asegura que tu archivo `.env` nunca se suba accidentalmente a tu repositorio.
+
+2. **Añade y Commitea el .gitignore**:
+    ```bash
+    git add .gitignore
+    git commit -m "Añadir .gitignore para evitar subir información sensible"
+    ```
+
+Siguiendo estos pasos, puedes asegurar que tu proyecto se mantenga seguro y que solo subas la información necesaria a GitHub.
