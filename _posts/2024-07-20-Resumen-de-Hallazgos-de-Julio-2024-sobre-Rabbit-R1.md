@@ -2,7 +2,7 @@
 tags: ["Resúmenes y Reportes"]
 ---
 
-Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
+Autor: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 
 En julio de 2024, nuestra comunidad ha estado trabajando arduamente para explorar y maximizar las capacidades del Rabbit R1. A continuación, presentamos un resumen de los avances, descubrimientos y casos de prueba más destacados.
 
