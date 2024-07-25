@@ -153,35 +153,35 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
 #### En macOS
 
 1. **Instala Homebrew** si aún no lo has hecho:
-    ```sh
+    ```powershell
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
 
 2. **Instala Ruby usando Homebrew** para obtener la última versión:
-    ```sh
+    ```powershell
     brew install ruby git
     ```
 
 3. **Configura tu shell** para utilizar la versión de Ruby instalada por Homebrew:
-    ```sh
+    ```powershell
     echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile # O ~/.zshrc si usas zsh
     ```
 
 4. **Instala Jekyll y Bundler**:
-    ```sh
+    ```powershell
     gem install jekyll bundler
     ```
 
 #### En GNU/Linux
 
 1. **Instala las dependencias necesarias**:
-    ```sh
+    ```powershell
     sudo apt-get update -y
     sudo apt-get install -y make gcc ruby-full build-essential zlib1g-dev git
     ```
 
 2. **Evita instalar gems como el usuario root** configurando un directorio de instalación para tu usuario:
-    ```sh
+    ```powershell
     echo '# Instalación de Ruby Gems en ~/gems' >> ~/.bashrc
     echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
     echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
@@ -189,7 +189,7 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
     ```
 
 3. **Instala Jekyll y Bundler**:
-    ```sh
+    ```powershell
     gem install jekyll bundler
     ```
 
@@ -200,21 +200,21 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
     - Sigue las instrucciones del instalador y asegúrate de ejecutar `ridk install` al finalizar.
 
 2. **Instala Jekyll y Bundler**:
-    ```sh
+    ```powershell
     gem install jekyll bundler
     ```
 
 ### Añadir Dependencias Faltantes
 
 Para evitar errores comunes al correr Jekyll en ambientes nuevos, especialmente en Ruby 3.0 o superior, añade `webrick` a tu conjunto de gemas:
-```sh
+```powershell
 bundle add webrick
 ```
 
 ### Modificar el Gemfile para Mejorar la Compatibilidad
 
 Para mejorar la compatibilidad y rendimiento de Jekyll en Windows y garantizar una correcta ejecución del sitio en GitHub Pages, es esencial modificar el archivo Gemfile de tu proyecto Jekyll con las siguientes líneas:
-```ruby
+```powershell
 source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
@@ -229,14 +229,14 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 ### Instalar Dependencias del Proyecto
 
 Después de configurar tu entorno Ruby y Jekyll, así como de asegurarte de que tu Gemfile esté correctamente establecido con todas las dependencias necesarias, ejecuta:
-```sh
+```powershell
 bundle install
 ```
 
 ### Ejecutar Jekyll
 
 Inicia el servidor de Jekyll con:
-```sh
+```powershell
 bundle exec jekyll serve
 ```
 
