@@ -31,6 +31,15 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 - **Acceso Rápido**: Agita el dispositivo suavemente como si fuera una maraca para acceder a las opciones del Rabbit R1. Este movimiento permitirá que el dispositivo reconozca la acción y abra el menú de ajustes.
 - **Comando de Voz**: Alternativamente, mantén presionado el botón de "press-to-talk" y di “Show me the settings” para abrir directamente las opciones de configuración.
 
+## Modo Terminal
+
+### 🟠 Activación y Uso
+
+El Modo Terminal te permite introducir texto directamente al Rabbit R1 mediante un menú de teclado contextual o un teclado Bluetooth.
+
+1. **Activación**: Activa el modo terminal desde las opciones del dispositivo. Para acceder a él, gira el dispositivo con la rueda en la posición de abajo.
+2. **Entrada de Texto**: Puedes usar el teclado contextual que aparece en el dispositivo para escribir, o conectar un teclado Bluetooth. Para conectar un teclado Bluetooth, activa el Bluetooth desde las opciones y empareja el teclado con el Rabbit R1. Recomendamos usar un teclado Bluetooth para una experiencia de entrada más cómoda.
+
 ## Solución de Problemas y Mantenimiento
 
 ### 🟠 Reset del Dispositivo
@@ -167,7 +176,9 @@ Utiliza la cámara del r1 para potenciar tus búsquedas y ayudar en la transcrip
 <details>
   <summary>Ejemplos</summary>
   <ul>
-    <li>“Turn this table into a spreadsheet and send to me via email.”</li>
+    <li>“Turn
+
+ this table into a spreadsheet and send to me via email.”</li>
     <li>“Can you suggest which pair of shoes I should wear with this outfit?”</li>
     <li>“Can you estimate how many calories are in a cup of orange juice?”</li>
     <li>“Can you summarize this text on the whiteboard?”</li>
