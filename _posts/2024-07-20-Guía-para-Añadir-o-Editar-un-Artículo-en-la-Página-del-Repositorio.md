@@ -257,5 +257,5 @@ Es crucial mantener la seguridad de tu proyecto evitando subir información sens
 2. **Añade y Commitea el .gitignore**:
     ```plaintext
     git add .gitignore
-    git commit -m "Añadir .gitignore para evitar subir información sensible"
+    git commit -am "Añadir .gitignore para evitar subir información sensible"
     ```
