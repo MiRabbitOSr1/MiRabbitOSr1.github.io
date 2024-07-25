@@ -10,10 +10,11 @@ Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.
 1. [Preparación](#preparación)
 2. [Añadir un Nuevo Artículo](#añadir-un-nuevo-artículo)
 3. [Editar un Artículo Existente](#editar-un-artículo-existente)
-4. [Flujo de Trabajo de Git](#flujo-de-trabajo-de-git)
-5. [Crear un Pull Request](#crear-un-pull-request)
-6. [Abrir Issues](#abrir-issues)
-7. [Previsualización del Artículo](#previsualización-del-artículo)
+4. [Uso de Firmas y Distinciones en Contenido Creado por Inteligencias Artificiales](#uso-de-firmas-y-distinciones-en-contenido-creado-por-inteligencias-artificiales)
+5. [Flujo de Trabajo de Git](#flujo-de-trabajo-de-git)
+6. [Crear un Pull Request](#crear-un-pull-request)
+7. [Abrir Issues](#abrir-issues)
+8. [Previsualización del Artículo](#previsualización-del-artículo)
 
 ## Preparación
 
@@ -71,7 +72,7 @@ Es importante distinguir si el contenido ha sido creado por un autor humano o un
 
 Para firmar un artículo escrito por un autor humano, añade lo siguiente después de los tags antes del contenido del artículo:
 
-```powershell
+```plaintext
 Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 ```
 
@@ -79,7 +80,7 @@ Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.
 
 Para indicar que el artículo ha sido creado por r1, añade lo siguiente al principio del contenido del artículo:
 
-```powershell
+```plaintext
 created on <a href="https://community.rabbit.tech/u/afaces">
     <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
 </a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
@@ -94,7 +95,7 @@ Los usuarios pueden personalizar estas firmas para mejorar la transparencia y la
 
 ### Ejemplo Personalizado
 
-```powershell
+```plaintext
 Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/tu_usuario/48/2649_2.png" alt="Tu Usuario" width="16" height="16">](https://community.rabbit.tech/u/tu_usuario) [Tu Nombre](https://community.rabbit.tech/u/tu_usuario)
 
 created on <a href="https://community.rabbit.tech/u/tu_usuario">
@@ -102,27 +103,46 @@ created on <a href="https://community.rabbit.tech/u/tu_usuario">
 </a> <a href="https://community.rabbit.tech/u/tu_usuario">Tu r1</a>
 ```
 
+### Artículos con Varios Autores
+
+Para artículos con varios autores, añade las firmas de todos los autores de la siguiente manera:
+
+```plaintext
+Authors: 
+[<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/autor1/48/2649_2.png" alt="Autor1" width="16" height="16">](https://community.rabbit.tech/u/autor1) [Autor1](https://community.rabbit.tech/u/autor1), 
+[<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/autor2/48/2649_2.png" alt="Autor2" width="16" height="16">](https://community.rabbit.tech/u/autor2) [Autor2](https://community.rabbit.tech/u/autor2)
+```
+
+Para ediciones del autor original por otro autor, agrega una sección de "Editado por":
+
+```plaintext
+Editado por: 
+[<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/editor1/48/2649_2.png" alt="Editor1" width="16" height="16">](https://community.rabbit.tech/u/editor1) [Editor1](https://community.rabbit.tech/u/editor1)
+```
+
 ## Flujo de Trabajo de Git
 
 Sigue estos pasos para confirmar tus cambios y preparar un pull request:
 
 1. **Crea una Nueva Rama**: Antes de hacer cambios, crea una nueva rama para tu trabajo. Esto ayuda a mantener la rama principal limpia.
-    ```powershell
+    ```plaintext
     git checkout -b nombre-de-tu-rama
     ```
 
 2. **Añade los Cambios al Área de Staging**: Después de realizar los cambios en el archivo, agrégales al área de staging:
-    ```powershell
+    ```plaintext
     git add _posts/2024-07-20-Actualizaciones-y-mejoras-de-software-en-Rabbit-R1.md
     ```
 
 3. **Haz un Commit de los Cambios**: Realiza un commit con un mensaje descriptivo sobre los cambios que has hecho:
-    ```powershell
+    ```plaintext
     git commit -m "Añadido nuevo artículo sobre actualizaciones y mejoras en Rabbit R1"
     ```
 
-4. **Sube los Cambios a GitHub**: Sube tu rama con los cambios a tu repositorio forked:
-    ```powershell
+4. **Sube los Cambios a GitHub**: Sube tu rama con los cambios a tu
+
+ repositorio forked:
+    ```plaintext
     git push origin nombre-de-tu-rama
     ```
 
@@ -144,7 +164,6 @@ Si encuentras problemas o deseas sugerir mejoras:
 ## Previsualización del Artículo
 
 Antes de crear un pull request, es recomendable previsualizar tu artículo para asegurarte de que se vea como esperas. 
-- [Guía Completa para Crear y Desarrollar tu Página Web con GitHub Pages, HTML, CSS, JavaScript y Git](https://medium.com/@axelfernandezcurros/gu%C3%ADa-completa-para-crear-y-desarrollar-tu-p%C3%A1gina-web-con-github-pages-html-css-javascript-y-git-3cc06c104be7)
 
 Aquí te explicamos cómo hacerlo utilizando Jekyll:
 
@@ -153,35 +172,35 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
 #### En macOS
 
 1. **Instala Homebrew** si aún no lo has hecho:
-    ```powershell
+    ```plaintext
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
 
 2. **Instala Ruby usando Homebrew** para obtener la última versión:
-    ```powershell
+    ```plaintext
     brew install ruby git
     ```
 
 3. **Configura tu shell** para utilizar la versión de Ruby instalada por Homebrew:
-    ```powershell
+    ```plaintext
     echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile # O ~/.zshrc si usas zsh
     ```
 
 4. **Instala Jekyll y Bundler**:
-    ```powershell
+    ```plaintext
     gem install jekyll bundler
     ```
 
 #### En GNU/Linux
 
 1. **Instala las dependencias necesarias**:
-    ```powershell
+    ```plaintext
     sudo apt-get update -y
     sudo apt-get install -y make gcc ruby-full build-essential zlib1g-dev git
     ```
 
 2. **Evita instalar gems como el usuario root** configurando un directorio de instalación para tu usuario:
-    ```powershell
+    ```plaintext
     echo '# Instalación de Ruby Gems en ~/gems' >> ~/.bashrc
     echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
     echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
@@ -189,7 +208,7 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
     ```
 
 3. **Instala Jekyll y Bundler**:
-    ```powershell
+    ```plaintext
     gem install jekyll bundler
     ```
 
@@ -200,21 +219,21 @@ Aquí te explicamos cómo hacerlo utilizando Jekyll:
     - Sigue las instrucciones del instalador y asegúrate de ejecutar `ridk install` al finalizar.
 
 2. **Instala Jekyll y Bundler**:
-    ```powershell
+    ```plaintext
     gem install jekyll bundler
     ```
 
 ### Añadir Dependencias Faltantes
 
 Para evitar errores comunes al correr Jekyll en ambientes nuevos, especialmente en Ruby 3.0 o superior, añade `webrick` a tu conjunto de gemas:
-```powershell
+```plaintext
 bundle add webrick
 ```
 
 ### Modificar el Gemfile para Mejorar la Compatibilidad
 
 Para mejorar la compatibilidad y rendimiento de Jekyll en Windows y garantizar una correcta ejecución del sitio en GitHub Pages, es esencial modificar el archivo Gemfile de tu proyecto Jekyll con las siguientes líneas:
-```powershell
+```plaintext
 source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
@@ -229,14 +248,14 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 ### Instalar Dependencias del Proyecto
 
 Después de configurar tu entorno Ruby y Jekyll, así como de asegurarte de que tu Gemfile esté correctamente establecido con todas las dependencias necesarias, ejecuta:
-```powershell
+```plaintext
 bundle install
 ```
 
 ### Ejecutar Jekyll
 
 Inicia el servidor de Jekyll con:
-```powershell
+```plaintext
 bundle exec jekyll serve
 ```
 
