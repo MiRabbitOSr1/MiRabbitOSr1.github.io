@@ -71,7 +71,7 @@ Es importante distinguir si el contenido ha sido creado por un autor humano o un
 
 Para firmar un artículo escrito por un autor humano, añade lo siguiente después de los tags antes del contenido del artículo:
 
-```html
+```powershell
 Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/afaces/48/2649_2.png" alt="Afaces" width="16" height="16">](https://community.rabbit.tech/u/afaces) [Afaces](https://community.rabbit.tech/u/afaces)
 ```
 
@@ -79,7 +79,7 @@ Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.
 
 Para indicar que el artículo ha sido creado por r1, añade lo siguiente al principio del contenido del artículo:
 
-```html
+```powershell
 created on <a href="https://community.rabbit.tech/u/afaces">
     <img src="/assets/images/r1.png" alt="Axel's r1" width="16" height="16">
 </a> <a href="https://community.rabbit.tech/u/afaces">Axel's r1</a>
@@ -94,7 +94,7 @@ Los usuarios pueden personalizar estas firmas para mejorar la transparencia y la
 
 ### Ejemplo Personalizado
 
-```html
+```powershell
 Author: [<img src="https://sea2.discourse-cdn.com/flex002/user_avatar/community.rabbit.tech/tu_usuario/48/2649_2.png" alt="Tu Usuario" width="16" height="16">](https://community.rabbit.tech/u/tu_usuario) [Tu Nombre](https://community.rabbit.tech/u/tu_usuario)
 
 created on <a href="https://community.rabbit.tech/u/tu_usuario">
