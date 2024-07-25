@@ -25,7 +25,7 @@ Ya sea que estés buscando aprender más, resolver un problema o simplemente con
 
 Para unirte a la comunidad o explorar los recursos disponibles, visita [El Tecnologuía - Foro Rabbit R1](https://eltecnologuia.com/foro-rabbit-r1/).
 
-También puedes visitar el foro oficial de Rabbit en el siguiente enlace: [Rabbit Community](https://community.rabbit.tech).
+También puedes visitar el foro oficial de Rabbit en el siguiente enlace *(Inglés)*: [Rabbit Community](https://community.rabbit.tech).
 
 ¡No olvides saludar! 😁
 ¡Te esperamos! 
