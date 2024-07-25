@@ -83,7 +83,6 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 ## Casos de Uso de Vanguardia
 
 ### 🟠 Conversaciones Cotidianas
-
 Utiliza Rabbit R1 para mantener conversaciones cotidianas y motivacionales.
 
 <details>
@@ -97,7 +96,6 @@ Utiliza Rabbit R1 para mantener conversaciones cotidianas y motivacionales.
 </details>
 
 ### 🟠 Respuestas a Preguntas
-
 Aprovecha herramientas avanzadas como Perplexity y Wolfram Alpha para responder preguntas y proporcionar recomendaciones.
 
 <details>
@@ -118,7 +116,6 @@ Aprovecha herramientas avanzadas como Perplexity y Wolfram Alpha para responder 
 </details>
 
 ### 🟠 Preguntas de Seguimiento
-
 Tu Rabbit R1 entenderá a qué te refieres sin necesidad de especificar todos los detalles nuevamente.
 
 <details>
@@ -143,7 +140,6 @@ Tu Rabbit R1 entenderá a qué te refieres sin necesidad de especificar todos lo
 </details>
 
 ### 🟠 Toma de Notas
-
 Utiliza tu r1 como un tomador de notas todo-en-uno.
 
 <details>
@@ -155,7 +151,6 @@ Utiliza tu r1 como un tomador de notas todo-en-uno.
 </details>
 
 ### 🟠 Grabación de Voz
-
 Usa r1 como tu grabadora de voz portátil.
 
 <details>
@@ -167,7 +162,6 @@ Usa r1 como tu grabadora de voz portátil.
 </details>
 
 ### 🟠 Modo de Visión
-
 Utiliza la cámara del r1 para potenciar tus búsquedas y ayudar en la transcripción de textos.
 
 <details>
@@ -184,7 +178,6 @@ Utiliza la cámara del r1 para potenciar tus búsquedas y ayudar en la transcrip
 </details>
 
 ### 🟠 Control de Música
-
 Reproduce cualquier canción, lista de reproducción, género o estado de ánimo en Spotify o Apple Music.
 
 <details>
@@ -202,7 +195,6 @@ Reproduce cualquier canción, lista de reproducción, género o estado de ánimo
 </details>
 
 ### 🟠 Solicitudes de Servicios
-
 Solicita un Uber o haz un pedido de comida en DoorDash con solo tu voz.
 
 <details>
@@ -215,7 +207,6 @@ Solicita un Uber o haz un pedido de comida en DoorDash con solo tu voz.
 </details>
 
 ### 🟠 Integración con Yelp
-
 Encuentra los mejores restaurantes y tiendas en cualquier ubicación.
 
 <details>
@@ -227,7 +218,6 @@ Encuentra los mejores restaurantes y tiendas en cualquier ubicación.
 </details>
 
 ### 🟠 Integración con Midjourney
-
 Accede a herramientas generativas de imágenes para diseñar o visualizar tus ideas.
 
 <details>
@@ -240,7 +230,6 @@ Accede a herramientas generativas de imágenes para diseñar o visualizar tus id
 </details>
 
 ### 🟠 Traducción
-
 Utiliza r1 para traducir entre más de 100 idiomas al instante.
 
 <details>
@@ -251,7 +240,6 @@ Utiliza r1 para traducir entre más de 100 idiomas al instante.
 </details>
 
 ### 🟠 Control de Voz del Dispositivo
-
 Controla la configuración de tu dispositivo solo con tu voz.
 
 <details>
