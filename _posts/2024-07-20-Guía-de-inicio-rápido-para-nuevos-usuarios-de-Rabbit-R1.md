@@ -29,7 +29,8 @@ Para utilizar estos comandos, presiona y mantén presionado el botón de "press-
 ## Acceso a Opciones del Dispositivo
 
 - **Acceso Rápido**: Agita el dispositivo suavemente como si fuera una maraca para acceder a las opciones del Rabbit R1. Este movimiento permitirá que el dispositivo reconozca la acción y abra el menú de ajustes.
-- **Comando de Voz**: Alternativamente, mantén presionado el botón de "press-to-talk" y di “Show me the settings” para abrir directamente las opciones de configuración.
+- **Comando de Voz**: Alternativamente, mantén presionado el botón de "press-to-talk" (PTT) y di “Show me the settings” para abrir directamente las opciones de configuración.
+- **Navegación y Confirmación**: Utiliza la rueda vertical para navegar a través de las opciones del menú. Para confirmar una selección, presiona el botón {PTT}.
 
 ## Modo Terminal
 
