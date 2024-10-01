@@ -1,0 +1,15 @@
+a {
+    cursor: url('/assets/images/pointer.png'), auto;
+}
+
+button {
+    cursor: url('/assets/images/cursor.png'), auto;
+}
+
+body {
+    cursor: url('/assets/images/cursor.png'), auto;
+}
+
+footer {
+    cursor: url('/assets/images/cursor.png'), auto;
+}
