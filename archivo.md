@@ -3,9 +3,11 @@ layout: page
 title: Blog Archivo
 ---
 
-<a href="https://community.rabbit.tech/t/r1-en-espana">
-      <img src="/assets/images/rabbit_smart.svg" alt="Archivo" width="128" height="128">
-</a>
+<div style="text-align: center;">
+  <a href="https://community.rabbit.tech/t/r1-en-espana">
+    <img src="/assets/images/rabbit_smart.svg" alt="Archivo" width="128" height="128">
+  </a>
+</div>
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
