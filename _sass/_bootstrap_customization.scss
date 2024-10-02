@@ -22,8 +22,10 @@ span{font-size:1.25rem;}
 }
 
 .navbar-nav {
-  flex-direction: column-reverse;
-  display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
 }
 
 .navbar-toggler {
@@ -69,7 +71,8 @@ span{font-size:1.25rem;}
 }
 
 .nav-item {
-  margin-right: 0.25rem;
+    flex-grow: 1;
+    text-align: center;
 }
 
 .nav-link {
